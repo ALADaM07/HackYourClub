@@ -1,12 +1,43 @@
-`TODO: Add a nice screenshot of the app!`
+# HackYourClub
 
-# Class XX final project
+![HackYourClub](./client/src/assets/HYC.png)
+
+# Class 43 final project
 
 This is the final project for the HackYourFuture curriculum we did as a class using the MERN stack by following the agile methodology with our team and a group of mentors. A quick guide to what we built:
 
-> TODO: Add short description of the app
+## Description
 
-`[Click here for the Demo version](TODO: add link)`
+Welcome to [Your App Name] – your go-to destination for discovering and engaging with a wide range of clubs and activities. Whether you're into sports, fishing, cycling, or any other hobby, our platform simplifies your journey to explore and participate in your favorite pastimes.
+
+## Key Features
+
+- **Club & Activity Listings:** Browse through an extensive catalog of clubs and activities, each neatly categorized for easy access.
+
+- **User-Friendly Interface:** Our intuitive design ensures a seamless experience for both newcomers and enthusiasts.
+
+- **Ratings & Reviews:** Share your thoughts and experiences by rating and reviewing your favorite clubs and activities.
+
+- **Favorite Clubs & Activities:** Keep track of your preferences by marking clubs and activities as favorites for quick access.
+
+- **Secure Sign-Up & Login:** Join our community to unlock the full potential of our platform. Sign up, log in, and enjoy personalized features.
+
+## How It Works
+
+1. **Explore:** Discover an array of clubs and activities on our home page, including top-rated options.
+
+2. **Categories:** Dive into your favorite hobby categories and find a treasure trove of possibilities.
+
+3. **User Engagement:** Sign up and log in to interact with the community, rate, review, and mark your favorites.
+
+## Get Started
+
+Ready to embark on your adventure? Just sign up, log in, and let your passion guide you.
+
+Join **HackYourClub** and elevate your leisure experiences today!
+
+
+[Click here for the Demo version](https://hyf-c43-group-2-3428e3260232.herokuapp.com)
 
 ## 1. Setup
 
