@@ -1,0 +1,90 @@
+.user-login {
+  height: 100vh;
+}
+
+.container {
+  margin-top: 60px;
+  max-width: 500px;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  background-color: #3a3939;
+}
+h1 {
+  font-size: 30px;
+  padding: 20px 0px;
+  text-align: center;
+}
+.error-message {
+  color: rgb(194, 48, 48);
+}
+
+#email {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: none;
+  border-bottom: 1px solid gray;
+  background-color: inherit;
+  color: white;
+}
+
+#password {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: none;
+  border-bottom: 1px solid gray;
+  background-color: inherit;
+  color: white;
+}
+
+.help-block {
+  color: #777;
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+.btn-success {
+  background-color: #28a745;
+  color: white;
+  padding: 12px;
+  width: 100%;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 15px;
+  font-weight: 500;
+}
+
+.error-message {
+  color: red;
+  margin-top: 10px;
+}
+.control-label {
+  padding: 0px 10px;
+  font-size: 22px;
+}
+
+.loading-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+}
+
+.loading-indicator {
+  padding: 10px;
+  background-color: rgb(189, 177, 177);
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  font-size: 1.2rem;
+  color: #333;
+}

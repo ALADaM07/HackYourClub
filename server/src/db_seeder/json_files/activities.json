@@ -1,0 +1,1028 @@
+[
+  {
+    "category": "cycling",
+    "activities": [
+      {
+        "name": "Mountain Biking Adventure",
+        "description": "Explore the local trails and enjoy the thrill of mountain biking.",
+        "date": "2023-10-15",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 10,
+        "address": {
+          "street": "123 Amsterdam Street",
+          "city": "Amsterdam",
+          "zip": "12345",
+          "coordinates": {
+            "latitude": 52.364554,
+            "longitude": 4.72006
+          }
+        }
+      },
+      {
+        "name": "Cycling Tour",
+        "description": "Join us for a scenic cycling tour through the countryside.",
+        "date": "2023-09-20",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 15
+      },
+      {
+        "name": "Family Bike Ride",
+        "description": "Bring your family for a leisurely bike ride in the park.",
+        "date": "2023-09-30",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 5
+      },
+      {
+        "name": "Night Cycling Adventure",
+        "description": "Experience the thrill of night cycling under the stars.",
+        "date": "2023-10-05",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 12
+      },
+      {
+        "name": "Mountain Bike Workshop",
+        "description": "Learn essential maintenance and repair skills for your mountain bike.",
+        "date": "2023-10-12",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 20
+      },
+      {
+        "name": "City Bike Tour",
+        "description": "Explore the city on a guided bike tour through its landmarks.",
+        "date": "2023-09-25",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 8
+      },
+      {
+        "name": "Off-Road Cycling Challenge",
+        "description": "Test your skills in an off-road cycling challenge in the wilderness.",
+        "date": "2023-10-08",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 18
+      }
+    ]
+  },
+  {
+    "category": "fishing",
+    "activities": [
+      {
+        "name": "Fishing Tournament",
+        "description": "Compete with fellow anglers in a fishing tournament by the lake.",
+        "date": "2023-09-20",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 15,
+        "address": {
+          "street": "123 Amsterdam Street",
+          "city": "Amsterdam",
+          "zip": "12345",
+          "coordinates": {
+            "latitude": 52.364554,
+            "longitude": 4.72006
+          }
+        }
+      },
+      {
+        "name": "Family Fishing Day",
+        "description": "Bring your family for a fun day of fishing by the river.",
+        "date": "2023-09-28",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 5
+      },
+      {
+        "name": "Deep-Sea Fishing Expedition",
+        "description": "Embark on an adventure into the deep sea for some serious fishing.",
+        "date": "2023-10-10",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 25
+      },
+      {
+        "name": "Fly Fishing Workshop",
+        "description": "Learn the art of fly fishing with experienced instructors.",
+        "date": "2023-09-15",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 12
+      },
+      {
+        "name": "Night Fishing Excursion",
+        "description": "Experience the thrill of night fishing under the moonlight.",
+        "date": "2023-10-02",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 10
+      },
+      {
+        "name": "Casting Skills Workshop",
+        "description": "Improve your casting skills with hands-on training from experts.",
+        "date": "2023-09-22",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 8
+      }
+    ]
+  },
+  {
+    "category": "sports",
+    "activities": [
+      {
+        "name": "Football Tournament",
+        "description": "Join our football tournament and compete for the championship.",
+        "date": "2023-09-25",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 20
+      },
+      {
+        "name": "Basketball Pickup Game",
+        "description": "Play a friendly pickup basketball game with fellow sports enthusiasts.",
+        "date": "2023-09-19",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Tennis Clinic",
+        "description": "Improve your tennis skills with professional coaching at our clinic.",
+        "date": "2023-10-02",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 15
+      },
+      {
+        "name": "Golf Day Outing",
+        "description": "Enjoy a day of golf at the beautiful local golf course.",
+        "date": "2023-10-08",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 30
+      },
+      {
+        "name": "Running Club Meetup",
+        "description": "Join our running club for a group run through scenic trails.",
+        "date": "2023-09-28",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Volleyball Beach Tournament",
+        "description": "Compete in a thrilling beach volleyball tournament by the shore.",
+        "date": "2023-09-22",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 25
+      }
+    ]
+  },
+  {
+    "category": "education",
+    "activities": [
+      {
+        "name": "Guest Lecture: Science in Everyday Life",
+        "description": "Attend a fascinating lecture on the role of science in our daily lives.",
+        "date": "2023-09-15",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Mathematics Workshop: Algebra Basics",
+        "description": "Learn the fundamentals of algebra in this interactive workshop.",
+        "date": "2023-09-22",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "History Symposium: Ancient Civilizations",
+        "description": "Explore the history of ancient civilizations with renowned historians.",
+        "date": "2023-10-01",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Language Learning Club: French Conversation",
+        "description": "Practice your French conversation skills with fellow language enthusiasts.",
+        "date": "2023-10-12",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Coding Bootcamp: Web Development",
+        "description": "Join our coding bootcamp and learn web development from scratch.",
+        "date": "2023-09-28",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Art Appreciation Class: Impressionist Painters",
+        "description": "Discover the world of Impressionist painters and their masterpieces.",
+        "date": "2023-09-18",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      }
+    ]
+  },
+
+  {
+    "category": "arts",
+    "activities": [
+      {
+        "name": "Painting Workshop: Watercolor Techniques",
+        "description": "Learn the art of watercolor painting with expert guidance.",
+        "date": "2023-09-20",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 15
+      },
+      {
+        "name": "Sculpture Exhibition",
+        "description": "Explore a stunning exhibition of contemporary sculptures by local artists.",
+        "date": "2023-09-28",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Photography Walk: Urban Landscapes",
+        "description": "Capture the beauty of urban landscapes during a photography walk.",
+        "date": "2023-10-05",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Dance Performance: Ballet Extravaganza",
+        "description": "Witness a mesmerizing ballet performance by talented dancers.",
+        "date": "2023-10-12",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 20
+      },
+      {
+        "name": "Pottery Class: Handbuilding Techniques",
+        "description": "Create your own pottery masterpieces using handbuilding techniques.",
+        "date": "2023-09-25",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 18
+      },
+      {
+        "name": "Art History Lecture: Renaissance Art",
+        "description": "Delve into the world of Renaissance art with an engaging art history lecture.",
+        "date": "2023-09-15",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      }
+    ]
+  },
+  {
+    "category": "adventure",
+    "activities": [
+      {
+        "name": "Hiking Expedition: Mountain Peaks",
+        "description": "Embark on a thrilling hiking expedition to conquer mountain peaks.",
+        "date": "2023-09-22",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 25
+      },
+      {
+        "name": "Rock Climbing Challenge",
+        "description": "Test your rock climbing skills on natural rock formations.",
+        "date": "2023-09-29",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 20
+      },
+      {
+        "name": "White Water Rafting Adventure",
+        "description": "Navigate through exhilarating rapids on a white water rafting adventure.",
+        "date": "2023-10-08",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 30
+      },
+      {
+        "name": "Camping Under the Stars",
+        "description": "Experience the serenity of camping under the starlit sky in the wilderness.",
+        "date": "2023-10-15",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 35
+      },
+      {
+        "name": "Zip Line Canopy Tour",
+        "description": "Soar through the treetops on an exciting zip line canopy tour.",
+        "date": "2023-09-25",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 18
+      },
+      {
+        "name": "Bikepacking Expedition",
+        "description": "Embark on a bikepacking adventure exploring remote trails and landscapes.",
+        "date": "2023-09-18",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 40
+      }
+    ]
+  },
+
+  {
+    "category": "animal welfare",
+    "activities": [
+      {
+        "name": "Pet Adoption Fair",
+        "description": "Join our pet adoption fair and find loving homes for rescued animals.",
+        "date": "2023-09-16",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Animal Care Workshop: Pet First Aid",
+        "description": "Learn essential pet first aid techniques and care for your furry friends.",
+        "date": "2023-09-23",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Wildlife Habitat Restoration",
+        "description": "Participate in a habitat restoration project to protect local wildlife.",
+        "date": "2023-10-07",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Animal Sanctuary Visit",
+        "description": "Visit an animal sanctuary and interact with rescued animals.",
+        "date": "2023-10-14",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Pet Therapy Session",
+        "description": "Experience the therapeutic benefits of spending time with therapy animals.",
+        "date": "2023-09-30",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Pet Adoption Seminar",
+        "description": "Attend a seminar on responsible pet adoption and care.",
+        "date": "2023-09-21",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      }
+    ]
+  },
+  {
+    "category": "technology",
+    "activities": [
+      {
+        "name": "Tech Talk: Artificial Intelligence",
+        "description": "Join a tech talk on the latest advancements in artificial intelligence.",
+        "date": "2023-09-18",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Coding Workshop: Web Development",
+        "description": "Learn web development from scratch in this hands-on coding workshop.",
+        "date": "2023-09-25",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Startup Pitch Competition",
+        "description": "Pitch your startup idea and compete for valuable prizes and feedback.",
+        "date": "2023-10-05",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Robotics Challenge: Build and Compete",
+        "description": "Take part in a robotics challenge where you build and compete with your robots.",
+        "date": "2023-10-14",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Cybersecurity Workshop",
+        "description": "Learn about cybersecurity best practices and protect your digital identity.",
+        "date": "2023-09-28",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Tech Hackathon",
+        "description": "Participate in a 24-hour tech hackathon to create innovative tech solutions.",
+        "date": "2023-10-21",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      }
+    ]
+  },
+  {
+    "category": "science",
+    "activities": [
+      {
+        "name": "Astronomy Night: Stargazing",
+        "description": "Join us for a night of stargazing and explore the wonders of the cosmos.",
+        "date": "2023-09-19",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Biology Field Trip: Ecosystem Study",
+        "description": "Embark on a field trip to study local ecosystems and biodiversity.",
+        "date": "2023-09-28",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Chemistry Workshop: Fun Experiments",
+        "description": "Engage in fun and interactive chemistry experiments for all ages.",
+        "date": "2023-10-06",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Physics Lecture: Quantum Mechanics",
+        "description": "Attend a physics lecture on the fascinating world of quantum mechanics.",
+        "date": "2023-10-15",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Environmental Science Seminar",
+        "description": "Explore environmental issues and solutions in this informative seminar.",
+        "date": "2023-09-22",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Robotics Workshop: Build Your Bot",
+        "description": "Learn to build and program your own robots in this hands-on workshop.",
+        "date": "2023-09-12",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      }
+    ]
+  },
+  {
+    "category": "culinary",
+    "activities": [
+      {
+        "name": "Cooking Class: Italian Cuisine",
+        "description": "Learn to cook delicious Italian dishes from a professional chef.",
+        "date": "2023-09-18",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 25
+      },
+      {
+        "name": "Food Tasting Event: International Flavors",
+        "description": "Explore a variety of international cuisines in this food tasting event.",
+        "date": "2023-09-25",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 20
+      },
+      {
+        "name": "Baking Workshop: Artisan Bread",
+        "description": "Master the art of baking artisan bread in this hands-on workshop.",
+        "date": "2023-10-07",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 18
+      },
+      {
+        "name": "Culinary Competition: Iron Chef Style",
+        "description": "Compete in an Iron Chef-style culinary competition and showcase your cooking skills.",
+        "date": "2023-10-15",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Wine Tasting and Pairing",
+        "description": "Enjoy an evening of wine tasting and learn about wine and food pairing.",
+        "date": "2023-09-30",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 30
+      },
+      {
+        "name": "Cooking Demo: Sushi Making",
+        "description": "Watch a live sushi-making demonstration by a sushi chef and taste the results.",
+        "date": "2023-10-21",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      }
+    ]
+  },
+  {
+    "category": "health",
+    "activities": [
+      {
+        "name": "Yoga and Meditation Session",
+        "description": "Relax and rejuvenate with a yoga and meditation session in a serene setting.",
+        "date": "2023-09-16",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 15
+      },
+      {
+        "name": "Outdoor Fitness Bootcamp",
+        "description": "Join an invigorating outdoor fitness bootcamp to boost your stamina.",
+        "date": "2023-09-24",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 20
+      },
+      {
+        "name": "Nutrition Workshop: Healthy Eating",
+        "description": "Learn about healthy eating habits and nutrition from a certified dietitian.",
+        "date": "2023-10-02",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Mental Wellness Seminar",
+        "description": "Gain insights into mental wellness and stress management in this seminar.",
+        "date": "2023-10-14",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Group Hiking and Nature Walk",
+        "description": "Enjoy the great outdoors with a group hike and scenic nature walk.",
+        "date": "2023-09-29",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Fitness Challenge: Marathon Training",
+        "description": "Participate in a fitness challenge and train for an upcoming marathon.",
+        "date": "2023-10-07",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      }
+    ]
+  },
+  {
+    "category": "nature",
+    "activities": [
+      {
+        "name": "Nature Photography Expedition",
+        "description": "Capture the beauty of nature on a photography expedition to scenic locations.",
+        "date": "2023-09-22",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Botanical Garden Tour",
+        "description": "Explore a local botanical garden and learn about diverse plant species.",
+        "date": "2023-09-30",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Bird Watching Excursion",
+        "description": "Go on a bird-watching excursion to spot and identify local bird species.",
+        "date": "2023-10-08",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Nature Cleanup: Park Conservation",
+        "description": "Participate in a nature cleanup event and contribute to park conservation.",
+        "date": "2023-10-15",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Wildlife Safari Adventure",
+        "description": "Embark on a wildlife safari adventure to observe local wildlife in their natural habitat.",
+        "date": "2023-09-29",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Nature Sketching Workshop",
+        "description": "Join a nature sketching workshop and capture the beauty of landscapes and wildlife.",
+        "date": "2023-10-05",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      }
+    ]
+  },
+  {
+    "category": "history",
+    "activities": [
+      {
+        "name": "Historical Walking Tour: Colonial Era",
+        "description": "Take a guided historical walking tour through colonial-era landmarks.",
+        "date": "2023-09-17",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Museum Visit: Ancient Civilizations",
+        "description": "Visit a museum dedicated to ancient civilizations and artifacts.",
+        "date": "2023-09-25",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 12
+      },
+      {
+        "name": "Historical Lecture: World Wars",
+        "description": "Attend a historical lecture on the impact of World Wars on global history.",
+        "date": "2023-10-08",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Civil War Reenactment",
+        "description": "Experience a Civil War reenactment event with period costumes and battles.",
+        "date": "2023-10-15",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Historical Movie Screening",
+        "description": "Watch a historical movie screening followed by a discussion on its accuracy.",
+        "date": "2023-09-30",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 8
+      },
+      {
+        "name": "Archaeological Dig Workshop",
+        "description": "Participate in an archaeological dig workshop and uncover hidden history.",
+        "date": "2023-10-06",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      }
+    ]
+  },
+  {
+    "category": "board games",
+    "activities": [
+      {
+        "name": "Board Game Night: Strategy Games",
+        "description": "Join us for a fun night of strategy board games with fellow enthusiasts.",
+        "date": "2023-09-16",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Board Game Tournament: Chess",
+        "description": "Compete in a chess tournament and showcase your strategic skills.",
+        "date": "2023-09-22",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 10
+      },
+      {
+        "name": "Card Game Workshop: Magic: The Gathering",
+        "description": "Learn the rules and strategies of Magic: The Gathering in this workshop.",
+        "date": "2023-10-07",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 15
+      },
+      {
+        "name": "Board Game Swap and Sale",
+        "description": "Exchange or purchase board games at our board game swap and sale event.",
+        "date": "2023-10-14",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Role-Playing Game Night: Dungeons & Dragons",
+        "description": "Embark on a role-playing adventure in the world of Dungeons & Dragons.",
+        "date": "2023-09-30",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 5
+      },
+      {
+        "name": "Board Game Design Workshop",
+        "description": "Learn the basics of board game design and create your own game concept.",
+        "date": "2023-10-21",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      }
+    ]
+  },
+  {
+    "category": "environment",
+    "activities": [
+      {
+        "name": "Beach Cleanup Day",
+        "description": "Join us for a beach cleanup event and help keep our coastline clean.",
+        "date": "2023-09-23",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Tree Planting Initiative",
+        "description": "Contribute to our tree planting initiative and help improve local green spaces.",
+        "date": "2023-09-30",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Environmental Workshop: Sustainable Living",
+        "description": "Learn about sustainable living practices and reduce your carbon footprint.",
+        "date": "2023-10-07",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Bird Sanctuary Visit",
+        "description": "Explore a bird sanctuary and observe native bird species in their habitat.",
+        "date": "2023-10-14",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 8
+      },
+      {
+        "name": "Recycling Drive",
+        "description": "Participate in a community recycling drive and promote responsible waste disposal.",
+        "date": "2023-09-29",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Environmental Documentary Screening",
+        "description": "Watch an environmental documentary followed by a discussion on conservation.",
+        "date": "2023-10-21",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 5
+      }
+    ]
+  },
+  {
+    "category": "music",
+    "activities": [
+      {
+        "name": "Live Jazz Night",
+        "description": "Enjoy an evening of live jazz music performed by talented local musicians.",
+        "date": "2023-09-15",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 12
+      },
+      {
+        "name": "Guitar Workshop: Beginner's Guide",
+        "description": "Learn the basics of playing the guitar in a hands-on workshop.",
+        "date": "2023-09-22",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 15
+      },
+      {
+        "name": "Choir Practice Session",
+        "description": "Join our choir practice session and sing your heart out with fellow members.",
+        "date": "2023-10-06",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Music Theory Workshop",
+        "description": "Expand your knowledge of music theory in an interactive workshop.",
+        "date": "2023-10-14",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Concert: Classical Symphony",
+        "description": "Attend a classical symphony concert featuring renowned musicians.",
+        "date": "2023-09-29",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 20
+      },
+      {
+        "name": "Karaoke Night",
+        "description": "Showcase your singing talents at our fun-filled karaoke night event.",
+        "date": "2023-10-21",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 8
+      }
+    ]
+  },
+  {
+    "category": "photography",
+    "activities": [
+      {
+        "name": "Photography Walk: Cityscape",
+        "description": "Join us for a photography walk and capture stunning cityscape images.",
+        "date": "2023-09-16",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Portrait Photography Workshop",
+        "description": "Learn portrait photography techniques and capture stunning portraits.",
+        "date": "2023-09-24",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 15
+      },
+      {
+        "name": "Nature Photography Expedition",
+        "description": "Explore a nature reserve and capture the beauty of wildlife and landscapes.",
+        "date": "2023-10-08",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Photography Exhibition",
+        "description": "Display your photography skills at our photography exhibition event.",
+        "date": "2023-10-15",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Night Photography Workshop",
+        "description": "Learn the art of night photography and capture stunning nightscapes.",
+        "date": "2023-09-29",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 12
+      },
+      {
+        "name": "Travel Photography Talk",
+        "description": "Attend a talk on travel photography and get inspired for your next adventure.",
+        "date": "2023-10-21",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      }
+    ]
+  },
+  {
+    "category": "gardening",
+    "activities": [
+      {
+        "name": "Community Garden Cleanup",
+        "description": "Join us for a community garden cleanup day and help maintain our garden.",
+        "date": "2023-09-16",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Gardening Workshop: Container Gardening",
+        "description": "Learn the art of container gardening and create your own potted garden.",
+        "date": "2023-09-23",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 10
+      },
+      {
+        "name": "Botanical Garden Visit",
+        "description": "Explore a beautiful botanical garden and learn about various plant species.",
+        "date": "2023-10-07",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 8
+      },
+      {
+        "name": "Garden Swap: Plant Exchange",
+        "description": "Exchange plants and gardening tips with fellow enthusiasts at our garden swap event.",
+        "date": "2023-10-14",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Herb Gardening Workshop",
+        "description": "Learn to grow and care for herbs in this hands-on gardening workshop.",
+        "date": "2023-09-30",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 12
+      },
+      {
+        "name": "Rose Garden Tour",
+        "description": "Take a guided tour of a beautiful rose garden and admire the vibrant blooms.",
+        "date": "2023-10-21",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      }
+    ]
+  },
+  {
+    "category": "dance",
+    "activities": [
+      {
+        "name": "Salsa Dance Night",
+        "description": "Join us for a lively salsa dance night with music and dancing.",
+        "date": "2023-09-15",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 12
+      },
+      {
+        "name": "Beginner's Dance Workshop: Hip-Hop",
+        "description": "Learn the basics of hip-hop dance in a beginner's workshop.",
+        "date": "2023-09-22",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 15
+      },
+      {
+        "name": "Ballroom Dance Class",
+        "description": "Improve your ballroom dance skills in our weekly dance class.",
+        "date": "2023-10-06",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 10
+      },
+      {
+        "name": "Dance Performance Showcase",
+        "description": "Attend a dance performance showcase featuring club members' talent.",
+        "date": "2023-10-14",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 8
+      },
+      {
+        "name": "Latin Dance Party",
+        "description": "Dance the night away at our Latin dance party with DJ and dance instructors.",
+        "date": "2023-09-29",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 15
+      },
+      {
+        "name": "Dance Fitness Class: Zumba",
+        "description": "Get fit and have fun with a high-energy Zumba dance fitness class.",
+        "date": "2023-10-21",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 10
+      }
+    ]
+  },
+  {
+    "category": "film",
+    "activities": [
+      {
+        "name": "Classic Movie Screening: Casablanca",
+        "description": "Join us for a screening of the classic movie 'Casablanca' on the big screen.",
+        "date": "2023-09-15",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 10
+      },
+      {
+        "name": "Director's Talk: Quentin Tarantino",
+        "description": "Attend a talk by renowned director Quentin Tarantino about his filmmaking journey.",
+        "date": "2023-09-22",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 15
+      },
+      {
+        "name": "Film Screening: Indie Film Showcase",
+        "description": "Enjoy an indie film showcase featuring unique and independent films.",
+        "date": "2023-10-06",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 12
+      },
+      {
+        "name": "Movie Discussion: Film Analysis",
+        "description": "Participate in a movie discussion and analysis session with fellow film enthusiasts.",
+        "date": "2023-10-14",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15"
+      },
+      {
+        "name": "Horror Movie Marathon",
+        "description": "Experience a night of spine-tingling horror movies during our movie marathon event.",
+        "date": "2023-09-29",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 10
+      },
+      {
+        "name": "Film Workshop: Screenwriting Basics",
+        "description": "Learn the fundamentals of screenwriting in our hands-on workshop.",
+        "date": "2023-10-21",
+        "startTime": "2023-10-15",
+        "endTime": "2023-10-15",
+        "price": 18
+      }
+    ]
+  }
+]

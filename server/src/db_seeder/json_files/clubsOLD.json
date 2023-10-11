@@ -1,0 +1,1557 @@
+[
+  {
+    "name": "Amsterdam Cycling Club",
+    "category": "cycling",
+    "description": "Explore scenic routes in and around Amsterdam, meet fellow cyclists, and enjoy group rides.",
+    "address": {
+      "street": "123 Amsterdam Street",
+      "city": "Amsterdam",
+      "zip": "12345",
+      "coordinates": {
+        "latitude": 52.364554,
+        "longitude": 4.72006
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Fishing Enthusiasts",
+    "category": "fishing",
+    "description": "Fish in the beautiful waters of Amsterdam, share fishing tips, and organize fishing trips.",
+    "address": {
+      "street": "234 Dutch Lane",
+      "city": "Amsterdam",
+      "zip": "23456",
+      "coordinates": {
+        "latitude": 52.364678,
+        "longitude": 4.716682
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Book Club",
+    "category": "reading",
+    "description": "Read and discuss books of various genres, attend book-related events, and meet fellow bookworms.",
+    "address": {
+      "street": "345 Canalside Avenue",
+      "city": "Amsterdam",
+      "zip": "34567",
+      "coordinates": {
+        "latitude": 52.364789,
+        "longitude": 4.712449
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Soccer Club",
+    "category": "sports",
+    "description": "Play soccer, join matches, and compete in local tournaments with a friendly and competitive group.",
+    "address": {
+      "street": "456 Tulip Road",
+      "city": "Amsterdam",
+      "zip": "45678",
+      "coordinates": {
+        "latitude": 52.364907,
+        "longitude": 4.708202
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Language Exchange",
+    "category": "education",
+    "description": "Learn new languages, practice speaking with language partners, and immerse yourself in diverse cultures.",
+    "address": {
+      "street": "567 Windmill Street",
+      "city": "Amsterdam",
+      "zip": "56789",
+      "coordinates": {
+        "latitude": 52.365025,
+        "longitude": 4.703963
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Art Enthusiasts",
+    "category": "arts",
+    "description": "Appreciate art, visit galleries and exhibitions, and engage in artistic discussions with fellow enthusiasts.",
+    "address": {
+      "street": "678 Red Light Lane",
+      "city": "Amsterdam",
+      "zip": "67890",
+      "coordinates": {
+        "latitude": 52.365147,
+        "longitude": 4.700083
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Hiking Group",
+    "category": "adventure",
+    "description": "Explore nature through hiking, conquer trails, and enjoy the beauty of Amsterdam's outdoors.",
+    "address": {
+      "street": "789 Cheese Avenue",
+      "city": "Amsterdam",
+      "zip": "78901",
+      "coordinates": {
+        "latitude": 52.365272,
+        "longitude": 4.696113
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Animal Lovers",
+    "category": "animal welfare",
+    "description": "Support animal shelters, rescue animals in need, and advocate for the welfare of animals.",
+    "address": {
+      "street": "890 Bicyclist Road",
+      "city": "Amsterdam",
+      "zip": "89012",
+      "coordinates": {
+        "latitude": 52.365394,
+        "longitude": 4.692154
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Tech Enthusiasts",
+    "category": "technology",
+    "description": "Discuss the latest tech trends, share knowledge, and network with fellow tech enthusiasts.",
+    "address": {
+      "street": "123 Dutch Masters Street",
+      "city": "Amsterdam",
+      "zip": "12345",
+      "coordinates": {
+        "latitude": 52.365526,
+        "longitude": 4.688206
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Science Club",
+    "category": "science",
+    "description": "Explore various scientific disciplines, conduct experiments, and discuss cutting-edge research.",
+    "address": {
+      "street": "234 Flower Lane",
+      "city": "Amsterdam",
+      "zip": "23456",
+      "coordinates": {
+        "latitude": 52.365647,
+        "longitude": 4.684264
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Culinary Society",
+    "category": "culinary",
+    "description": "Savor diverse cuisines, attend cooking classes, and share your passion for food with fellow foodies.",
+    "address": {
+      "street": "345 Canalside Avenue",
+      "city": "Amsterdam",
+      "zip": "34567",
+      "coordinates": {
+        "latitude": 52.365778,
+        "longitude": 4.680327
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Yoga and Wellness",
+    "category": "health",
+    "description": "Practice yoga, meditation, and mindfulness to promote physical and mental well-being.",
+    "address": {
+      "street": "456 Windmill Road",
+      "city": "Amsterdam",
+      "zip": "45678",
+      "coordinates": {
+        "latitude": 52.3659,
+        "longitude": 4.676392
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Nature Explorers",
+    "category": "nature",
+    "description": "Discover the beauty of nature, hike in scenic spots, and learn about Amsterdam's flora and fauna.",
+    "address": {
+      "street": "567 Canal Street",
+      "city": "Amsterdam",
+      "zip": "56789",
+      "coordinates": {
+        "latitude": 52.366034,
+        "longitude": 4.672469
+      }
+    }
+  },
+  {
+    "name": "Amsterdam History Buffs",
+    "category": "history",
+    "description": "Explore Amsterdam's rich history, visit historical sites, and engage in discussions about the past.",
+    "address": {
+      "street": "678 Tulip Lane",
+      "city": "Amsterdam",
+      "zip": "67890",
+      "coordinates": {
+        "latitude": 52.366169,
+        "longitude": 4.668562
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Board Gamers",
+    "category": "board games",
+    "description": "Enjoy board games, strategy games, and social gaming nights with fellow board game enthusiasts.",
+    "address": {
+      "street": "789 Dutch Avenue",
+      "city": "Amsterdam",
+      "zip": "78901",
+      "coordinates": {
+        "latitude": 52.3663,
+        "longitude": 4.664652
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Environmental Advocates",
+    "category": "environment",
+    "description": "Promote eco-friendly practices, participate in clean-up events, and raise awareness about environmental issues.",
+    "address": {
+      "street": "890 Red Light Lane",
+      "city": "Amsterdam",
+      "zip": "89012",
+      "coordinates": {
+        "latitude": 52.366426,
+        "longitude": 4.660758
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Cycling Club",
+    "category": "cycling",
+    "description": "Explore scenic routes in and around Amsterdam, meet fellow cyclists, and enjoy group rides.",
+    "address": {
+      "street": "123 Amsterdam Street",
+      "city": "Amsterdam",
+      "zip": "12345",
+      "coordinates": {
+        "latitude": 52.366552,
+        "longitude": 4.656874
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Fishing Enthusiasts",
+    "category": "fishing",
+    "description": "Fish in the beautiful waters of Amsterdam, share fishing tips, and organize fishing trips.",
+    "address": {
+      "street": "234 Dutch Lane",
+      "city": "Amsterdam",
+      "zip": "23456",
+      "coordinates": {
+        "latitude": 52.366684,
+        "longitude": 4.652989
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Book Club",
+    "category": "reading",
+    "description": "Read and discuss books of various genres, attend book-related events, and meet fellow bookworms.",
+    "address": {
+      "street": "345 Canalside Avenue",
+      "city": "Amsterdam",
+      "zip": "34567",
+      "coordinates": {
+        "latitude": 52.366817,
+        "longitude": 4.649115
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Soccer Club",
+    "category": "sports",
+    "description": "Play soccer, join matches, and compete in local tournaments with a friendly and competitive group.",
+    "address": {
+      "street": "456 Tulip Road",
+      "city": "Amsterdam",
+      "zip": "45678",
+      "coordinates": {
+        "latitude": 52.366951,
+        "longitude": 4.645245
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Language Exchange",
+    "category": "education",
+    "description": "Learn new languages, practice speaking with language partners, and immerse yourself in diverse cultures.",
+    "address": {
+      "street": "567 Windmill Street",
+      "city": "Amsterdam",
+      "zip": "56789",
+      "coordinates": {
+        "latitude": 52.367082,
+        "longitude": 4.641386
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Art Enthusiasts",
+    "category": "arts",
+    "description": "Appreciate art, visit galleries and exhibitions, and engage in artistic discussions with fellow enthusiasts.",
+    "address": {
+      "street": "678 Red Light Lane",
+      "city": "Amsterdam",
+      "zip": "67890",
+      "coordinates": {
+        "latitude": 52.367215,
+        "longitude": 4.637522
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Hiking Group",
+    "category": "adventure",
+    "description": "Explore nature through hiking, conquer trails, and enjoy the beauty of Amsterdam's outdoors.",
+    "address": {
+      "street": "789 Cheese Avenue",
+      "city": "Amsterdam",
+      "zip": "78901",
+      "coordinates": {
+        "latitude": 52.367347,
+        "longitude": 4.633672
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Animal Lovers",
+    "category": "animal welfare",
+    "description": "Support animal shelters, rescue animals in need, and advocate for the welfare of animals.",
+    "address": {
+      "street": "890 Bicyclist Road",
+      "city": "Amsterdam",
+      "zip": "89012",
+      "coordinates": {
+        "latitude": 52.367482,
+        "longitude": 4.629835
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Tech Enthusiasts",
+    "category": "technology",
+    "description": "Discuss the latest tech trends, share knowledge, and network with fellow tech enthusiasts.",
+    "address": {
+      "street": "123 Dutch Masters Street",
+      "city": "Amsterdam",
+      "zip": "12345",
+      "coordinates": {
+        "latitude": 52.367616,
+        "longitude": 4.626009
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Science Club",
+    "category": "science",
+    "description": "Explore various scientific disciplines, conduct experiments, and discuss cutting-edge research.",
+    "address": {
+      "street": "234 Flower Lane",
+      "city": "Amsterdam",
+      "zip": "23456",
+      "coordinates": {
+        "latitude": 52.367749,
+        "longitude": 4.622197
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Culinary Society",
+    "category": "culinary",
+    "description": "Savor diverse cuisines, attend cooking classes, and share your passion for food with fellow foodies.",
+    "address": {
+      "street": "345 Canalside Avenue",
+      "city": "Amsterdam",
+      "zip": "34567",
+      "coordinates": {
+        "latitude": 52.36788,
+        "longitude": 4.6184
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Yoga and Wellness",
+    "category": "health",
+    "description": "Practice yoga, meditation, and mindfulness to promote physical and mental well-being.",
+    "address": {
+      "street": "456 Windmill Road",
+      "city": "Amsterdam",
+      "zip": "45678",
+      "coordinates": {
+        "latitude": 52.36801,
+        "longitude": 4.614615
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Nature Explorers",
+    "category": "nature",
+    "description": "Discover the beauty of nature, hike in scenic spots, and learn about Amsterdam's flora and fauna.",
+    "address": {
+      "street": "567 Canal Street",
+      "city": "Amsterdam",
+      "zip": "56789",
+      "coordinates": {
+        "latitude": 52.368143,
+        "longitude": 4.610844
+      }
+    }
+  },
+  {
+    "name": "Amsterdam History Buffs",
+    "category": "history",
+    "description": "Explore Amsterdam's rich history, visit historical sites, and engage in discussions about the past.",
+    "address": {
+      "street": "678 Tulip Lane",
+      "city": "Amsterdam",
+      "zip": "67890",
+      "coordinates": {
+        "latitude": 52.368276,
+        "longitude": 4.607085
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Board Gamers",
+    "category": "board games",
+    "description": "Enjoy board games, strategy games, and social gaming nights with fellow board game enthusiasts.",
+    "address": {
+      "street": "789 Dutch Avenue",
+      "city": "Amsterdam",
+      "zip": "78901",
+      "coordinates": {
+        "latitude": 52.368408,
+        "longitude": 4.603338
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Environmental Advocates",
+    "category": "environment",
+    "description": "Promote eco-friendly practices, participate in clean-up events, and raise awareness about environmental issues.",
+    "address": {
+      "street": "890 Red Light Lane",
+      "city": "Amsterdam",
+      "zip": "89012",
+      "coordinates": {
+        "latitude": 52.368538,
+        "longitude": 4.599603
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Fishing Enthusiasts",
+    "category": "fishing",
+    "description": "Fish in the picturesque waters of Rotterdam, share angling expertise, and embark on fishing expeditions.",
+    "address": {
+      "street": "123 Rotterdam Street",
+      "city": "Rotterdam",
+      "zip": "12345",
+      "coordinates": {
+        "latitude": 51.9177,
+        "longitude": 4.482972
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Soccer Club",
+    "category": "sports",
+    "description": "Participate in thrilling soccer matches and tournaments with a spirited and friendly soccer community.",
+    "address": {
+      "street": "234 Port Lane",
+      "city": "Rotterdam",
+      "zip": "23456",
+      "coordinates": {
+        "latitude": 51.907678,
+        "longitude": 4.464889
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Yoga and Wellness",
+    "category": "health",
+    "description": "Enhance your well-being through yoga and wellness practices in the vibrant city of Rotterdam.",
+    "address": {
+      "street": "345 Harbor Avenue",
+      "city": "Rotterdam",
+      "zip": "34567",
+      "coordinates": {
+        "latitude": 51.901234,
+        "longitude": 4.482345
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Art Enthusiasts",
+    "category": "arts",
+    "description": "Appreciate art, visit galleries and exhibitions, and engage in artistic discussions in Rotterdam's art scene.",
+    "address": {
+      "street": "456 Bridge Road",
+      "city": "Rotterdam",
+      "zip": "45678",
+      "coordinates": {
+        "latitude": 51.912345,
+        "longitude": 4.490123
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Board Gamers",
+    "category": "board games",
+    "description": "Enjoy tabletop gaming, strategy games, and social board game nights in Rotterdam's gaming community.",
+    "address": {
+      "street": "567 Dock Street",
+      "city": "Rotterdam",
+      "zip": "56789",
+      "coordinates": {
+        "latitude": 51.918765,
+        "longitude": 4.489012
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Environmental Advocates",
+    "category": "environment",
+    "description": "Champion eco-friendly initiatives, participate in clean-up drives, and raise awareness about environmental issues in Rotterdam.",
+    "address": {
+      "street": "678 Maritime Lane",
+      "city": "Rotterdam",
+      "zip": "67890",
+      "coordinates": {
+        "latitude": 51.923456,
+        "longitude": 4.491234
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Cycling Club",
+    "category": "cycling",
+    "description": "Discover thrilling cycling routes, join group rides, and connect with fellow cycling enthusiasts in Rotterdam.",
+    "address": {
+      "street": "789 Ship Avenue",
+      "city": "Rotterdam",
+      "zip": "78901",
+      "coordinates": {
+        "latitude": 51.930123,
+        "longitude": 4.493567
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Nature Explorers",
+    "category": "nature",
+    "description": "Embark on nature expeditions, explore trails, and admire Rotterdam's natural beauty with fellow enthusiasts.",
+    "address": {
+      "street": "890 Port Road",
+      "city": "Rotterdam",
+      "zip": "89012",
+      "coordinates": {
+        "latitude": 51.925678,
+        "longitude": 4.495678
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Culinary Society",
+    "category": "culinary",
+    "description": "Indulge in culinary delights, attend cooking classes, and share your passion for food with Rotterdam's foodies.",
+    "address": {
+      "street": "123 Bridge Street",
+      "city": "Rotterdam",
+      "zip": "12345",
+      "coordinates": {
+        "latitude": 51.91789,
+        "longitude": 4.482567
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Science Club",
+    "category": "science",
+    "description": "Explore the realms of science, conduct experiments, and engage in scientific discussions in Rotterdam.",
+    "address": {
+      "street": "234 Harbor Lane",
+      "city": "Rotterdam",
+      "zip": "23456",
+      "coordinates": {
+        "latitude": 51.909012,
+        "longitude": 4.485678
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Language Exchange",
+    "category": "education",
+    "description": "Learn new languages, practice speaking with language partners, and embrace linguistic diversity in Rotterdam.",
+    "address": {
+      "street": "345 Portside Avenue",
+      "city": "Rotterdam",
+      "zip": "34567",
+      "coordinates": {
+        "latitude": 51.913456,
+        "longitude": 4.489012
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Hiking Group",
+    "category": "adventure",
+    "description": "Embark on thrilling hiking adventures, conquer trails, and explore the great outdoors in Rotterdam.",
+    "address": {
+      "street": "456 Anchor Road",
+      "city": "Rotterdam",
+      "zip": "45678",
+      "coordinates": {
+        "latitude": 51.919012,
+        "longitude": 4.492345
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Animal Lovers",
+    "category": "animal welfare",
+    "description": "Advocate for animal welfare, support shelters, and rescue animals in need in Rotterdam.",
+    "address": {
+      "street": "567 Sail Street",
+      "city": "Rotterdam",
+      "zip": "56789",
+      "coordinates": {
+        "latitude": 51.922345,
+        "longitude": 4.494567
+      }
+    }
+  },
+  {
+    "name": "Maastricht Cycling Club",
+    "category": "cycling",
+    "description": "Explore scenic routes in and around Maastricht, meet fellow cyclists, and enjoy group rides.",
+    "address": {
+      "street": "123 Maastricht Street",
+      "city": "Maastricht",
+      "zip": "12345",
+      "coordinates": {
+        "latitude": 50.850345,
+        "longitude": 5.688345
+      }
+    }
+  },
+  {
+    "name": "Maastricht Fishing Enthusiasts",
+    "category": "fishing",
+    "description": "Fish in the serene waters of Maastricht, share fishing knowledge, and plan fishing adventures.",
+    "address": {
+      "street": "234 River Lane",
+      "city": "Maastricht",
+      "zip": "23456",
+      "coordinates": {
+        "latitude": 50.851234,
+        "longitude": 5.686789
+      }
+    }
+  },
+  {
+    "name": "Maastricht Book Club",
+    "category": "reading",
+    "description": "Read and discuss a wide range of books, attend literary events, and connect with fellow book enthusiasts in Maastricht.",
+    "address": {
+      "street": "345 Castle Avenue",
+      "city": "Maastricht",
+      "zip": "34567",
+      "coordinates": {
+        "latitude": 50.852345,
+        "longitude": 5.685123
+      }
+    }
+  },
+  {
+    "name": "Maastricht Soccer Club",
+    "category": "sports",
+    "description": "Play soccer, join matches, and experience the thrill of competitive soccer in Maastricht.",
+    "address": {
+      "street": "456 Hill Road",
+      "city": "Maastricht",
+      "zip": "45678",
+      "coordinates": {
+        "latitude": 50.853456,
+        "longitude": 5.683456
+      }
+    }
+  },
+  {
+    "name": "Maastricht Language Exchange",
+    "category": "education",
+    "description": "Learn new languages, practice speaking with language partners, and embrace linguistic diversity in Maastricht.",
+    "address": {
+      "street": "567 Vineyard Street",
+      "city": "Maastricht",
+      "zip": "56789",
+      "coordinates": {
+        "latitude": 50.854567,
+        "longitude": 5.681789
+      }
+    }
+  },
+  {
+    "name": "Maastricht Art Enthusiasts",
+    "category": "arts",
+    "description": "Appreciate art, visit galleries and exhibitions, and engage in artistic discussions with fellow art enthusiasts in Maastricht.",
+    "address": {
+      "street": "678 Valley Lane",
+      "city": "Maastricht",
+      "zip": "67890",
+      "coordinates": {
+        "latitude": 50.855678,
+        "longitude": 5.680123
+      }
+    }
+  },
+  {
+    "name": "Maastricht Hiking Group",
+    "category": "adventure",
+    "description": "Embark on thrilling hiking expeditions, conquer challenging trails, and enjoy nature's wonders in Maastricht.",
+    "address": {
+      "street": "789 Square Avenue",
+      "city": "Maastricht",
+      "zip": "78901",
+      "coordinates": {
+        "latitude": 50.856789,
+        "longitude": 5.678456
+      }
+    }
+  },
+  {
+    "name": "Maastricht Animal Lovers",
+    "category": "animal welfare",
+    "description": "Advocate for animal rights, support local shelters, and show love and care for animals in Maastricht.",
+    "address": {
+      "street": "890 Meadow Road",
+      "city": "Maastricht",
+      "zip": "89012",
+      "coordinates": {
+        "latitude": 50.85789,
+        "longitude": 5.676789
+      }
+    }
+  },
+  {
+    "name": "Maastricht Tech Enthusiasts",
+    "category": "technology",
+    "description": "Discuss the latest technological advancements, share knowledge, and network with tech enthusiasts in Maastricht.",
+    "address": {
+      "street": "123 Castle Street",
+      "city": "Maastricht",
+      "zip": "12345",
+      "coordinates": {
+        "latitude": 50.859012,
+        "longitude": 5.675123
+      }
+    }
+  },
+  {
+    "name": "Maastricht Science Club",
+    "category": "science",
+    "description": "Explore the fascinating world of science, conduct experiments, and discuss cutting-edge research in Maastricht.",
+    "address": {
+      "street": "234 Laboratory Lane",
+      "city": "Maastricht",
+      "zip": "23456",
+      "coordinates": {
+        "latitude": 50.860123,
+        "longitude": 5.673456
+      }
+    }
+  },
+  {
+    "name": "Maastricht Culinary Society",
+    "category": "culinary",
+    "description": "Indulge in diverse cuisines, attend cooking classes, and share your love for food with culinary enthusiasts in Maastricht.",
+    "address": {
+      "street": "345 Gourmet Avenue",
+      "city": "Maastricht",
+      "zip": "34567",
+      "coordinates": {
+        "latitude": 50.861234,
+        "longitude": 5.671789
+      }
+    }
+  },
+  {
+    "name": "Maastricht Yoga and Wellness",
+    "category": "health",
+    "description": "Nurture your physical and mental well-being through yoga, meditation, and wellness practices in Maastricht.",
+    "address": {
+      "street": "456 Harmony Road",
+      "city": "Maastricht",
+      "zip": "45678",
+      "coordinates": {
+        "latitude": 50.862345,
+        "longitude": 5.670123
+      }
+    }
+  },
+  {
+    "name": "Maastricht Nature Explorers",
+    "category": "nature",
+    "description": "Discover the beauty of Maastricht's natural landscapes, hike in scenic areas, and learn about local flora and fauna.",
+    "address": {
+      "street": "567 Wilderness Street",
+      "city": "Maastricht",
+      "zip": "56789",
+      "coordinates": {
+        "latitude": 50.863456,
+        "longitude": 5.668456
+      }
+    }
+  },
+  {
+    "name": "Maastricht History Buffs",
+    "category": "history",
+    "description": "Delve into Maastricht's intriguing history, visit historical sites, and engage in captivating discussions about the past.",
+    "address": {
+      "street": "678 Heritage Lane",
+      "city": "Maastricht",
+      "zip": "67890",
+      "coordinates": {
+        "latitude": 50.864567,
+        "longitude": 5.666789
+      }
+    }
+  },
+  {
+    "name": "Maastricht Board Gamers",
+    "category": "board games",
+    "description": "Experience the world of board gaming, play strategy games, and enjoy friendly board game nights in Maastricht.",
+    "address": {
+      "street": "789 Game Avenue",
+      "city": "Maastricht",
+      "zip": "78901",
+      "coordinates": {
+        "latitude": 50.865678,
+        "longitude": 5.665123
+      }
+    }
+  },
+  {
+    "name": "Maastricht Environmental Advocates",
+    "category": "environment",
+    "description": "Advocate for sustainable practices, participate in environmental initiatives, and raise awareness about eco-friendly living in Maastricht.",
+    "address": {
+      "street": "890 Green Lane",
+      "city": "Maastricht",
+      "zip": "89012",
+      "coordinates": {
+        "latitude": 50.866789,
+        "longitude": 5.663456
+      }
+    }
+  },
+
+  {
+    "name": "Maastricht Cycling Club 2",
+    "category": "cycling",
+    "description": "Explore scenic routes in and around Maastricht, meet fellow cyclists, and enjoy group rides.",
+    "address": {
+      "street": "123 Maastricht Street",
+      "city": "Maastricht",
+      "zip": "12345",
+      "coordinates": {
+        "latitude": 50.860345,
+        "longitude": 5.661789
+      }
+    }
+  },
+  {
+    "name": "Maastricht Fishing Enthusiasts 2",
+    "category": "fishing",
+    "description": "Fish in the serene waters of Maastricht, share fishing knowledge, and plan fishing adventures.",
+    "address": {
+      "street": "234 River Lane",
+      "city": "Maastricht",
+      "zip": "23456",
+      "coordinates": {
+        "latitude": 50.861234,
+        "longitude": 5.660123
+      }
+    }
+  },
+  {
+    "name": "Maastricht Book Club 2",
+    "category": "reading",
+    "description": "Read and discuss a wide range of books, attend literary events, and connect with fellow book enthusiasts in Maastricht.",
+    "address": {
+      "street": "345 Castle Avenue",
+      "city": "Maastricht",
+      "zip": "34567",
+      "coordinates": {
+        "latitude": 50.862345,
+        "longitude": 5.658456
+      }
+    }
+  },
+  {
+    "name": "Maastricht Soccer Club 2",
+    "category": "sports",
+    "description": "Play soccer, join matches, and experience the thrill of competitive soccer in Maastricht.",
+    "address": {
+      "street": "456 Hill Road",
+      "city": "Maastricht",
+      "zip": "45678",
+      "coordinates": {
+        "latitude": 50.863456,
+        "longitude": 5.656789
+      }
+    }
+  },
+  {
+    "name": "Maastricht Language Exchange 2",
+    "category": "education",
+    "description": "Learn new languages, practice speaking with language partners, and embrace linguistic diversity in Maastricht.",
+    "address": {
+      "street": "567 Vineyard Street",
+      "city": "Maastricht",
+      "zip": "56789",
+      "coordinates": {
+        "latitude": 50.864567,
+        "longitude": 5.655123
+      }
+    }
+  },
+  {
+    "name": "Maastricht Art Enthusiasts 2",
+    "category": "arts",
+    "description": "Appreciate art, visit galleries and exhibitions, and engage in artistic discussions with fellow art enthusiasts in Maastricht.",
+    "address": {
+      "street": "678 Valley Lane",
+      "city": "Maastricht",
+      "zip": "67890",
+      "coordinates": {
+        "latitude": 50.865678,
+        "longitude": 5.653456
+      }
+    }
+  },
+  {
+    "name": "Maastricht Hiking Group 2",
+    "category": "adventure",
+    "description": "Embark on thrilling hiking expeditions, conquer challenging trails, and enjoy nature's wonders in Maastricht.",
+    "address": {
+      "street": "789 Square Avenue",
+      "city": "Maastricht",
+      "zip": "78901",
+      "coordinates": {
+        "latitude": 50.866789,
+        "longitude": 5.651789
+      }
+    }
+  },
+  {
+    "name": "Maastricht Animal Lovers 2",
+    "category": "animal welfare",
+    "description": "Advocate for animal rights, support local shelters, and show love and care for animals in Maastricht.",
+    "address": {
+      "street": "890 Meadow Road",
+      "city": "Maastricht",
+      "zip": "89012",
+      "coordinates": {
+        "latitude": 50.86789,
+        "longitude": 5.650123
+      }
+    }
+  },
+  {
+    "name": "Maastricht Tech Enthusiasts 2",
+    "category": "technology",
+    "description": "Discuss the latest technological advancements, share knowledge, and network with tech enthusiasts in Maastricht.",
+    "address": {
+      "street": "123 Castle Street",
+      "city": "Maastricht",
+      "zip": "12345",
+      "coordinates": {
+        "latitude": 50.869012,
+        "longitude": 5.648456
+      }
+    }
+  },
+  {
+    "name": "Maastricht Science Club 2",
+    "category": "science",
+    "description": "Explore the fascinating world of science, conduct experiments, and discuss cutting-edge research in Maastricht.",
+    "address": {
+      "street": "234 Laboratory Lane",
+      "city": "Maastricht",
+      "zip": "23456",
+      "coordinates": {
+        "latitude": 50.870123,
+        "longitude": 5.646789
+      }
+    }
+  },
+  {
+    "name": "Maastricht Culinary Society 2",
+    "category": "culinary",
+    "description": "Indulge in diverse cuisines, attend cooking classes, and share your love for food with culinary enthusiasts in Maastricht.",
+    "address": {
+      "street": "345 Gourmet Avenue",
+      "city": "Maastricht",
+      "zip": "34567",
+      "coordinates": {
+        "latitude": 50.871234,
+        "longitude": 5.645123
+      }
+    }
+  },
+  {
+    "name": "Maastricht Yoga and Wellness 2",
+    "category": "health",
+    "description": "Nurture your physical and mental well-being through yoga, meditation, and wellness practices in Maastricht.",
+    "address": {
+      "street": "456 Harmony Road",
+      "city": "Maastricht",
+      "zip": "45678",
+      "coordinates": {
+        "latitude": 50.872345,
+        "longitude": 5.643456
+      }
+    }
+  },
+  {
+    "name": "Maastricht Nature Explorers 2",
+    "category": "nature",
+    "description": "Discover the beauty of Maastricht's natural landscapes, hike in scenic areas, and learn about local flora and fauna.",
+    "address": {
+      "street": "567 Wilderness Street",
+      "city": "Maastricht",
+      "zip": "56789",
+      "coordinates": {
+        "latitude": 50.873456,
+        "longitude": 5.641789
+      }
+    }
+  },
+  {
+    "name": "Maastricht History Buffs 2",
+    "category": "history",
+    "description": "Delve into Maastricht's intriguing history, visit historical sites, and engage in captivating discussions about the past.",
+    "address": {
+      "street": "678 Heritage Lane",
+      "city": "Maastricht",
+      "zip": "67890",
+      "coordinates": {
+        "latitude": 50.874567,
+        "longitude": 5.640123
+      }
+    }
+  },
+  {
+    "name": "Maastricht Board Gamers 2",
+    "category": "board games",
+    "description": "Experience the world of board gaming, play strategy games, and enjoy friendly board game nights in Maastricht.",
+    "address": {
+      "street": "789 Game Avenue",
+      "city": "Maastricht",
+      "zip": "78901",
+      "coordinates": {
+        "latitude": 50.875678,
+        "longitude": 5.638456
+      }
+    }
+  },
+  {
+    "name": "Maastricht Environmental Advocates 2",
+    "category": "environment",
+    "description": "Advocate for sustainable practices, participate in environmental initiatives, and raise awareness about eco-friendly living in Maastricht.",
+    "address": {
+      "street": "890 Green Lane",
+      "city": "Maastricht",
+      "zip": "89012",
+      "coordinates": {
+        "latitude": 50.876789,
+        "longitude": 5.636789
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Chess Club 2",
+    "category": "board games",
+    "description": "Play chess, improve your strategy, and engage in chess tournaments in Amsterdam.",
+    "address": {
+      "street": "123 Chess Street",
+      "city": "Amsterdam",
+      "zip": "12345",
+      "coordinates": {
+        "latitude": 52.372345,
+        "longitude": 4.622345
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Tennis Club 2",
+    "category": "sports",
+    "description": "Enjoy playing tennis, join tournaments, and improve your skills in Amsterdam's tennis community.",
+    "address": {
+      "street": "234 Tennis Lane",
+      "city": "Amsterdam",
+      "zip": "23456",
+      "coordinates": {
+        "latitude": 52.373456,
+        "longitude": 4.620678
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Music Lovers 2",
+    "category": "music",
+    "description": "Appreciate music, attend concerts, and connect with fellow music enthusiasts in Amsterdam.",
+    "address": {
+      "street": "345 Melody Avenue",
+      "city": "Amsterdam",
+      "zip": "34567",
+      "coordinates": {
+        "latitude": 52.374567,
+        "longitude": 4.619012
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Photography Club 2",
+    "category": "photography",
+    "description": "Capture stunning moments, share photography tips, and explore Amsterdam through the lens.",
+    "address": {
+      "street": "456 Shutter Road",
+      "city": "Amsterdam",
+      "zip": "45678",
+      "coordinates": {
+        "latitude": 52.375678,
+        "longitude": 4.617345
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Gardening Club 2",
+    "category": "gardening",
+    "description": "Cultivate gardens, exchange gardening knowledge, and beautify Amsterdam's green spaces.",
+    "address": {
+      "street": "567 Garden Street",
+      "city": "Amsterdam",
+      "zip": "56789",
+      "coordinates": {
+        "latitude": 52.376789,
+        "longitude": 4.615678
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Cooking Enthusiasts 2",
+    "category": "culinary",
+    "description": "Master the art of cooking, share recipes, and savor delicious dishes with cooking enthusiasts in Amsterdam.",
+    "address": {
+      "street": "678 Chef Lane",
+      "city": "Amsterdam",
+      "zip": "67890",
+      "coordinates": {
+        "latitude": 52.37789,
+        "longitude": 4.614012
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Coding Club 2",
+    "category": "technology",
+    "description": "Explore coding languages, work on coding projects, and connect with fellow programmers in Amsterdam.",
+    "address": {
+      "street": "789 Code Avenue",
+      "city": "Amsterdam",
+      "zip": "78901",
+      "coordinates": {
+        "latitude": 52.378901,
+        "longitude": 4.612345
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Dance Crew 2",
+    "category": "dance",
+    "description": "Dance to the rhythm, learn new dance styles, and perform with a dynamic dance crew in Amsterdam.",
+    "address": {
+      "street": "890 Dance Street",
+      "city": "Amsterdam",
+      "zip": "89012",
+      "coordinates": {
+        "latitude": 52.379901,
+        "longitude": 4.610678
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Film Buffs 2",
+    "category": "film",
+    "description": "Explore the world of cinema, watch and discuss films, and connect with fellow film enthusiasts in Amsterdam.",
+    "address": {
+      "street": "123 Film Street",
+      "city": "Amsterdam",
+      "zip": "12345",
+      "coordinates": {
+        "latitude": 52.380901,
+        "longitude": 4.609012
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Science Club 2",
+    "category": "science",
+    "description": "Explore the fascinating world of science, conduct experiments, and discuss cutting-edge research in Amsterdam.",
+    "address": {
+      "street": "234 Laboratory Lane",
+      "city": "Amsterdam",
+      "zip": "23456",
+      "coordinates": {
+        "latitude": 52.381901,
+        "longitude": 4.607345
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Yoga and Wellness 2",
+    "category": "health",
+    "description": "Nurture your physical and mental well-being through yoga, meditation, and wellness practices in Amsterdam.",
+    "address": {
+      "street": "345 Harmony Avenue",
+      "city": "Amsterdam",
+      "zip": "34567",
+      "coordinates": {
+        "latitude": 52.382901,
+        "longitude": 4.605678
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Nature Explorers 2",
+    "category": "nature",
+    "description": "Discover the beauty of Amsterdam's natural landscapes, hike in scenic areas, and learn about local flora and fauna.",
+    "address": {
+      "street": "456 Wilderness Street",
+      "city": "Amsterdam",
+      "zip": "45678",
+      "coordinates": {
+        "latitude": 52.383901,
+        "longitude": 4.604012
+      }
+    }
+  },
+  {
+    "name": "Amsterdam History Buffs 2",
+    "category": "history",
+    "description": "Delve into Amsterdam's intriguing history, visit historical sites, and engage in captivating discussions about the past.",
+    "address": {
+      "street": "567 Heritage Lane",
+      "city": "Amsterdam",
+      "zip": "56789",
+      "coordinates": {
+        "latitude": 52.384901,
+        "longitude": 4.602345
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Board Gamers 2",
+    "category": "board games",
+    "description": "Experience the world of board gaming, play strategy games, and enjoy friendly board game nights in Amsterdam.",
+    "address": {
+      "street": "678 Game Avenue",
+      "city": "Amsterdam",
+      "zip": "67890",
+      "coordinates": {
+        "latitude": 52.385901,
+        "longitude": 4.600678
+      }
+    }
+  },
+  {
+    "name": "Amsterdam Environmental Advocates 2",
+    "category": "environment",
+    "description": "Advocate for sustainable practices, participate in environmental initiatives, and raise awareness about eco-friendly living in Amsterdam.",
+    "address": {
+      "street": "789 Green Lane",
+      "city": "Amsterdam",
+      "zip": "78901",
+      "coordinates": {
+        "latitude": 52.386901,
+        "longitude": 4.599012
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Chess Club 2",
+    "category": "board games",
+    "description": "Play chess, improve your strategy, and engage in chess tournaments in Rotterdam.",
+    "address": {
+      "street": "123 Chess Street",
+      "city": "Rotterdam",
+      "zip": "12345",
+      "coordinates": {
+        "latitude": 51.918901,
+        "longitude": 4.484567
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Tennis Club 2",
+    "category": "sports",
+    "description": "Enjoy playing tennis, join tournaments, and improve your skills in Rotterdam's tennis community.",
+    "address": {
+      "street": "234 Tennis Lane",
+      "city": "Rotterdam",
+      "zip": "23456",
+      "coordinates": {
+        "latitude": 51.919901,
+        "longitude": 4.482901
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Music Lovers 2",
+    "category": "music",
+    "description": "Appreciate music, attend concerts, and connect with fellow music enthusiasts in Rotterdam.",
+    "address": {
+      "street": "345 Melody Avenue",
+      "city": "Rotterdam",
+      "zip": "34567",
+      "coordinates": {
+        "latitude": 51.920901,
+        "longitude": 4.481234
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Photography Club 2",
+    "category": "photography",
+    "description": "Capture stunning moments, share photography tips, and explore Rotterdam through the lens.",
+    "address": {
+      "street": "456 Shutter Road",
+      "city": "Rotterdam",
+      "zip": "45678",
+      "coordinates": {
+        "latitude": 51.921901,
+        "longitude": 4.479567
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Gardening Club 2",
+    "category": "gardening",
+    "description": "Cultivate gardens, exchange gardening knowledge, and beautify Rotterdam's green spaces.",
+    "address": {
+      "street": "567 Garden Street",
+      "city": "Rotterdam",
+      "zip": "56789",
+      "coordinates": {
+        "latitude": 51.922901,
+        "longitude": 4.477901
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Cooking Enthusiasts 2",
+    "category": "culinary",
+    "description": "Master the art of cooking, share recipes, and savor delicious dishes with cooking enthusiasts in Rotterdam.",
+    "address": {
+      "street": "678 Chef Lane",
+      "city": "Rotterdam",
+      "zip": "67890",
+      "coordinates": {
+        "latitude": 51.923901,
+        "longitude": 4.476234
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Coding Club 2",
+    "category": "technology",
+    "description": "Explore coding languages, work on coding projects, and connect with fellow programmers in Rotterdam.",
+    "address": {
+      "street": "789 Code Avenue",
+      "city": "Rotterdam",
+      "zip": "78901",
+      "coordinates": {
+        "latitude": 51.924901,
+        "longitude": 4.474567
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Dance Crew 2",
+    "category": "dance",
+    "description": "Dance to the rhythm, learn new dance styles, and perform with a dynamic dance crew in Rotterdam.",
+    "address": {
+      "street": "890 Dance Street",
+      "city": "Rotterdam",
+      "zip": "89012",
+      "coordinates": {
+        "latitude": 51.925901,
+        "longitude": 4.472901
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Film Buffs 2",
+    "category": "film",
+    "description": "Explore the world of cinema, watch and discuss films, and connect with fellow film enthusiasts in Rotterdam.",
+    "address": {
+      "street": "123 Film Street",
+      "city": "Rotterdam",
+      "zip": "12345",
+      "coordinates": {
+        "latitude": 51.926901,
+        "longitude": 4.471234
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Science Club 2",
+    "category": "science",
+    "description": "Explore the fascinating world of science, conduct experiments, and discuss cutting-edge research in Rotterdam.",
+    "address": {
+      "street": "234 Laboratory Lane",
+      "city": "Rotterdam",
+      "zip": "23456",
+      "coordinates": {
+        "latitude": 51.927901,
+        "longitude": 4.469567
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Yoga and Wellness 2",
+    "category": "health",
+    "description": "Nurture your physical and mental well-being through yoga, meditation, and wellness practices in Rotterdam.",
+    "address": {
+      "street": "345 Harmony Avenue",
+      "city": "Rotterdam",
+      "zip": "34567",
+      "coordinates": {
+        "latitude": 51.928901,
+        "longitude": 4.467901
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Nature Explorers 2",
+    "category": "nature",
+    "description": "Discover the beauty of Rotterdam's natural landscapes, hike in scenic areas, and learn about local flora and fauna.",
+    "address": {
+      "street": "456 Wilderness Street",
+      "city": "Rotterdam",
+      "zip": "45678",
+      "coordinates": {
+        "latitude": 51.929901,
+        "longitude": 4.466234
+      }
+    }
+  },
+  {
+    "name": "Rotterdam History Buffs 2",
+    "category": "history",
+    "description": "Delve into Rotterdam's intriguing history, visit historical sites, and engage in captivating discussions about the past.",
+    "address": {
+      "street": "567 Heritage Lane",
+      "city": "Rotterdam",
+      "zip": "56789",
+      "coordinates": {
+        "latitude": 51.930901,
+        "longitude": 4.464567
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Board Gamers 2",
+    "category": "board games",
+    "description": "Experience the world of board gaming, play strategy games, and enjoy friendly board game nights in Rotterdam.",
+    "address": {
+      "street": "678 Game Avenue",
+      "city": "Rotterdam",
+      "zip": "67890",
+      "coordinates": {
+        "latitude": 51.931901,
+        "longitude": 4.462901
+      }
+    }
+  },
+  {
+    "name": "Rotterdam Environmental Advocates 2",
+    "category": "environment",
+    "description": "Advocate for sustainable practices, participate in environmental initiatives, and raise awareness about eco-friendly living in Rotterdam.",
+    "address": {
+      "street": "789 Green Lane",
+      "city": "Rotterdam",
+      "zip": "78901",
+      "coordinates": {
+        "latitude": 51.932901,
+        "longitude": 4.461234
+      }
+    }
+  },
+  {
+    "name": "Maastricht Cycling Club 3",
+    "category": "cycling",
+    "description": "Explore scenic routes in and around Maastricht, meet fellow cyclists, and enjoy group rides.",
+    "address": {
+      "street": "123 Maastricht Street",
+      "city": "Maastricht",
+      "zip": "12345",
+      "coordinates": {
+        "latitude": 50.876789,
+        "longitude": 5.634567
+      }
+    }
+  },
+  {
+    "name": "Maastricht Fishing Enthusiasts 3",
+    "category": "fishing",
+    "description": "Fish in the serene waters of Maastricht, share fishing knowledge, and plan fishing adventures.",
+    "address": {
+      "street": "234 River Lane",
+      "city": "Maastricht",
+      "zip": "23456",
+      "coordinates": {
+        "latitude": 50.87789,
+        "longitude": 5.632901
+      }
+    }
+  },
+  {
+    "name": "Maastricht Book Club 3",
+    "category": "reading",
+    "description": "Read and discuss a wide range of books, attend literary events, and connect with fellow book enthusiasts in Maastricht.",
+    "address": {
+      "street": "345 Castle Avenue",
+      "city": "Maastricht",
+      "zip": "34567",
+      "coordinates": {
+        "latitude": 50.878901,
+        "longitude": 5.631234
+      }
+    }
+  },
+  {
+    "name": "Maastricht Soccer Club 3",
+    "category": "sports",
+    "description": "Play soccer, join matches, and experience the thrill of competitive soccer in Maastricht.",
+    "address": {
+      "street": "456 Hill Road",
+      "city": "Maastricht",
+      "zip": "45678",
+      "coordinates": {
+        "latitude": 50.879901,
+        "longitude": 5.629567
+      }
+    }
+  }
+]

@@ -1,0 +1,72 @@
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.navbar-text {
+  color: black;
+}
+.main-logo {
+  font-weight: bolder;
+  color: rgb(102, 102, 102);
+}
+
+.transparent-search-bar .form-control {
+  background-color: transparent;
+  border: 1px solid grey;
+  color: #ffffff;
+  box-shadow: none;
+}
+.form-control::placeholder {
+  color: #ffffff;
+  opacity: 0.5;
+}
+.search-btn {
+  color: white;
+  border-color: white;
+}
+.search-btn:hover {
+  color: #000000;
+  background-color: #ffffff;
+  border-color: rgb(0, 0, 0);
+}
+.navbar .navbar-nav .nav-link {
+  color: #ffffff;
+  font-weight: normal;
+}
+.navbar .navbar-nav .nav-link:hover {
+  font-weight: bold;
+}
+.navbar .navbar-nav .nav-link.active {
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: bold;
+  transition: background-color 0.2s;
+  border-bottom: 1px rgb(67, 130, 75) solid;
+}
+
+.user-icon {
+  margin-left: 20px;
+  color: white;
+}
+
+.auth-btn {
+  margin-left: 7px;
+  color: rgb(22, 112, 52);
+  border-color: rgb(22, 112, 52);
+}
+
+.user-name {
+  margin-top: 7px;
+  padding: 5px 10px;
+  font-weight: 700;
+  text-decoration: none;
+}
+.user-img {
+  margin-top: 7px;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  object-fit: cover;
+}

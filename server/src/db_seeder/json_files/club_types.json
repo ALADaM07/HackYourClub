@@ -1,0 +1,106 @@
+{
+  "Hobby_Club_Categories": {
+    "Sports_Clubs": [
+      "Fishing",
+      "Cycling",
+      "Hiking",
+      "Running",
+      "Swimming",
+      "Tennis",
+      "Golf",
+      "Yoga",
+      "Martial Arts",
+      "Archery"
+    ],
+    "Literary_and_Arts_Clubs": [
+      "Reading",
+      "Writing",
+      "Book Club",
+      "Poetry",
+      "Painting",
+      "Drawing",
+      "Photography",
+      "Theater",
+      "Dance",
+      "Music (e.g., Guitar, Piano, Singing)"
+    ],
+    "Outdoor_Adventure_Clubs": [
+      "Camping",
+      "Backpacking",
+      "Rock Climbing",
+      "Kayaking",
+      "Rafting",
+      "Bird Watching",
+      "Nature Photography"
+    ],
+    "Gaming_Clubs": [
+      "Board Games",
+      "Card Games (e.g., Poker, Bridge)",
+      "Video Games",
+      "Chess",
+      "Role-Playing Games (RPGs)"
+    ],
+    "Food_and_Cooking_Clubs": [
+      "Cooking",
+      "Baking",
+      "Wine Tasting",
+      "Gourmet Dining",
+      "Vegetarian/Vegan Cooking",
+      "Food Photography"
+    ],
+    "Technology_and_Coding_Clubs": [
+      "Coding",
+      "Robotics",
+      "3D Printing",
+      "Virtual Reality (VR)",
+      "Amateur Radio (HAM Radio)"
+    ],
+    "Collectors_Clubs": [
+      "Coin Collecting",
+      "Stamp Collecting",
+      "Vintage Car Collecting",
+      "Antique Collecting",
+      "Comic Book Collecting",
+      "Toy Collecting"
+    ],
+    "Nature_and_Conservation_Clubs": [
+      "Birdwatching",
+      "Environmental Conservation",
+      "Gardening",
+      "Beekeeping",
+      "Astronomy",
+      "Wildlife Photography"
+    ],
+    "DIY_and_Craft_Clubs": [
+      "Woodworking",
+      "Knitting and Crocheting",
+      "Pottery",
+      "Origami",
+      "Candle Making",
+      "Jewelry Making"
+    ],
+    "Language_and_Culture_Clubs": [
+      "Language Exchange",
+      "Travel",
+      "Cultural Exchange",
+      "Ethnic Cuisine",
+      "History"
+    ],
+    "Fitness_and_Wellness_Clubs": [
+      "Gym and Fitness",
+      "Meditation",
+      "Tai Chi",
+      "Pilates",
+      "Zumba",
+      "CrossFit"
+    ],
+    "Community_and_Social_Clubs": [
+      "Volunteer Work",
+      "Community Service",
+      "Toastmasters (Public Speaking)",
+      "Movie Club",
+      "Music Jamming",
+      "Karaoke"
+    ]
+  }
+}

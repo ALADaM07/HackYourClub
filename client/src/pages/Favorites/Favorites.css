@@ -1,0 +1,90 @@
+body {
+  height: 100vh;
+}
+
+.favorite-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h2 {
+  font-size: 37px;
+  margin-bottom: 37px;
+  color: rgb(179, 167, 94);
+}
+
+.favorite-clubs h3 {
+  font-size: 24px;
+  color: #ffffff;
+  margin-bottom: 27px;
+  text-align: left;
+}
+
+.divider {
+  height: 2px;
+  background-color: #777;
+  margin: 37px 0;
+}
+
+.favorite-activities h3 {
+  font-size: 24px;
+  color: #ffffff;
+  margin-bottom: 27px;
+  margin-top: 37px;
+  text-align: left;
+}
+
+.list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.back-btn-container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  color: #ffffff;
+}
+
+.favorite-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.favorite-item h3 {
+  font-size: 18px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.favorite-item p {
+  font-size: 14px;
+  color: #777;
+}
+
+.favorite-item .remove-btn {
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}

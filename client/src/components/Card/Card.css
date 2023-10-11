@@ -1,0 +1,128 @@
+.club-card {
+  max-width: 100%;
+  margin: 10px;
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  position: relative;
+  transition: transform 0.2s ease-in-out;
+  cursor: pointer;
+  background-color: rgb(67, 61, 61);
+  opacity: 0.8;
+  color: white;
+}
+
+.club-card:hover {
+  transform: scale(1.06);
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  z-index: 10;
+}
+
+.club-image img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.club-info p {
+  margin: 0;
+}
+
+.club-name {
+  font-size: 18px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+
+h3.club-name {
+  text-align: center;
+  margin-top: 5px;
+  font-size: 15px;
+  opacity: 0.8;
+}
+
+.club-description {
+  color: white;
+  padding: 0 10px 5px 10px;
+  font-size: 12px;
+  display: none;
+  opacity: 0;
+  height: 0;
+  overflow: hidden;
+
+  text-align: center;
+}
+
+.club-card.hovered .club-description,
+.club-card.mobile-tablet .club-description {
+  display: block;
+  opacity: 1;
+  height: auto;
+}
+
+@media (min-width: 2200px) and (max-width: 2600px) {
+  .club-card {
+    height: 350px;
+    border-radius: 10px;
+  }
+  .club-description {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 1300px) {
+  .club-card {
+    max-width: 100%;
+    margin: 10px;
+    height: 310px;
+    border-radius: 10px;
+  }
+
+  .club-name {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+
+  .club-description {
+    font-size: 14px;
+    padding: 5px;
+    display: block;
+    opacity: 1;
+    height: auto;
+  }
+}
+@media (max-width: 420px) {
+  .club-card {
+    height: 380px;
+    border-radius: 10px;
+  }
+  .club-description {
+    font-size: 16px;
+  }
+}
+
+.react-multi-carousel-list button {
+  background-color: red;
+  position: absolute;
+  top: 110px;
+  z-index: 10;
+}
+
+.average-rating {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  background-color: #ff5722;
+  color: white;
+  padding: 5px;
+  font-weight: bold;
+  border-radius: 30px;
+}
+
+.average-rating h6 {
+  margin: 0;
+  font-size: small;
+}

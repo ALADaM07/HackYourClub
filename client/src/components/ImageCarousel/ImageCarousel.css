@@ -1,0 +1,36 @@
+.carousel-title {
+  color: aliceblue;
+  margin: 0 0 0 20px;
+  font-size: 25px;
+}
+
+.wrapper-carousel {
+  height: 275px;
+  margin: 15px auto;
+}
+
+@media (min-width: 1901px) {
+  .wrapper-carousel:not(:last-child) {
+    height: 420px;
+  }
+}
+
+@media (max-width: 1900px) {
+  .wrapper-carousel:not(:last-child) {
+    height: 340px;
+    margin-bottom: 10px;
+  }
+}
+
+@media (max-width: 1300px) {
+  .wrapper-carousel:not(:last-child) {
+    height: 400px;
+    margin-bottom: 10px;
+  }
+}
+@media (max-width: 420px) {
+  .wrapper-carousel:not(:last-child) {
+    height: 450px;
+    margin-bottom: 20px;
+  }
+}

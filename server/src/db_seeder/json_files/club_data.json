@@ -1,0 +1,2345 @@
+[
+  [
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 52.364554,
+          "longitude": 4.72006
+        },
+        "street": "123 Amsterdam Street",
+        "city": "Amsterdam",
+        "zip": "12345"
+      },
+      "_id": "64f7717fd8ee037384e86d20",
+      "name": "Amsterdam Cycling Club",
+      "category": ["cycling"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/cycling?lock=7542381861666816",
+        "https://loremflickr.com/640/480/cycling?lock=3131928842600448",
+        "https://loremflickr.com/640/480/cycling?lock=3320168553906176",
+        "https://loremflickr.com/640/480/cycling?lock=4839946047193088",
+        "https://loremflickr.com/640/480/cycling?lock=2152388657938432",
+        "https://loremflickr.com/640/480/cycling?lock=3500851117162496",
+        "https://loremflickr.com/640/480/cycling?lock=3914009587744768",
+        "https://loremflickr.com/640/480/cycling?lock=4189338178945024",
+        "https://loremflickr.com/640/480/cycling?lock=4018226319065088",
+        "https://loremflickr.com/640/480/cycling?lock=4978611218022400",
+        "https://loremflickr.com/640/480/cycling?lock=1117509606440960",
+        "https://loremflickr.com/640/480/cycling?lock=816661353463808",
+        "https://loremflickr.com/640/480/cycling?lock=5796275886751744",
+        "https://loremflickr.com/640/480/cycling?lock=6678967564107776",
+        "https://loremflickr.com/640/480/cycling?lock=4828722878218240",
+        "https://loremflickr.com/640/480/cycling?lock=6321265377804288",
+        "https://loremflickr.com/640/480/cycling?lock=7827071516540928",
+        "https://loremflickr.com/640/480/cycling?lock=7744620058378240",
+        "https://loremflickr.com/640/480/cycling?lock=2215275600543744",
+        "https://loremflickr.com/640/480/cycling?lock=4366701422444544"
+      ],
+      "description": "Explore scenic routes in and around Amsterdam, meet fellow cyclists, and enjoy group rides.",
+      "membershipFee": 0,
+      "discount": 0,
+      "meetingSchedule": "Every Friday",
+      "activities": [
+        "64f7717fd8ee037384e86d22",
+        "64f7717fd8ee037384e86d25",
+        "64f7717fd8ee037384e86d27",
+        "64f77181d8ee037384e86d29",
+        "64f77181d8ee037384e86d2b",
+        "64f77181d8ee037384e86d2d",
+        "64f77181d8ee037384e86d2f"
+      ],
+      "createdAt": "2023-01-26T05:51:06.039Z",
+      "updatedAt": "2023-09-05T18:20:49.339Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 52.366552,
+          "longitude": 4.656874
+        },
+        "street": "123 Amsterdam Street",
+        "city": "Amsterdam",
+        "zip": "12345"
+      },
+      "_id": "64f77189d8ee037384e86e07",
+      "name": "Amsterdam Cycling Club",
+      "category": ["cycling"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/cycling?lock=1388215808294912",
+        "https://loremflickr.com/640/480/cycling?lock=4435023321104384",
+        "https://loremflickr.com/640/480/cycling?lock=8871288600788992",
+        "https://loremflickr.com/640/480/cycling?lock=5602267052900352",
+        "https://loremflickr.com/640/480/cycling?lock=4511526381682688",
+        "https://loremflickr.com/640/480/cycling?lock=7738046514462720",
+        "https://loremflickr.com/640/480/cycling?lock=4783086480916480",
+        "https://loremflickr.com/640/480/cycling?lock=1502638480818176",
+        "https://loremflickr.com/640/480/cycling?lock=2876746800037888",
+        "https://loremflickr.com/640/480/cycling?lock=6076529805099008",
+        "https://loremflickr.com/640/480/cycling?lock=1004584652767232",
+        "https://loremflickr.com/640/480/cycling?lock=8559709567057920",
+        "https://loremflickr.com/640/480/cycling?lock=2669534171365376",
+        "https://loremflickr.com/640/480/cycling?lock=241067653857280",
+        "https://loremflickr.com/640/480/cycling?lock=3330859746721792",
+        "https://loremflickr.com/640/480/cycling?lock=4952593755275264",
+        "https://loremflickr.com/640/480/cycling?lock=3852018162597888",
+        "https://loremflickr.com/640/480/cycling?lock=4412181984575488",
+        "https://loremflickr.com/640/480/cycling?lock=5873959276904448",
+        "https://loremflickr.com/640/480/cycling?lock=8944585940140032"
+      ],
+      "description": "Explore scenic routes in and around Amsterdam, meet fellow cyclists, and enjoy group rides.",
+      "membershipFee": 0,
+      "discount": 0,
+      "meetingSchedule": "Every Wednesday",
+      "activities": [
+        "64f77189d8ee037384e86e09",
+        "64f77189d8ee037384e86e0b",
+        "64f7718ad8ee037384e86e0d",
+        "64f7718ad8ee037384e86e0f",
+        "64f7718ad8ee037384e86e11",
+        "64f7718ad8ee037384e86e13",
+        "64f7718ad8ee037384e86e15"
+      ],
+      "createdAt": "2022-10-07T11:00:40.867Z",
+      "updatedAt": "2023-09-05T18:20:58.414Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 51.930123,
+          "longitude": 4.493567
+        },
+        "street": "789 Ship Avenue",
+        "city": "Rotterdam",
+        "zip": "78901"
+      },
+      "_id": "64f77195d8ee037384e86f47",
+      "name": "Rotterdam Cycling Club",
+      "category": ["cycling"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/cycling?lock=761374556815360",
+        "https://loremflickr.com/640/480/cycling?lock=292628190986240",
+        "https://loremflickr.com/640/480/cycling?lock=4397491300597760",
+        "https://loremflickr.com/640/480/cycling?lock=3318659107782656",
+        "https://loremflickr.com/640/480/cycling?lock=8383736672419840",
+        "https://loremflickr.com/640/480/cycling?lock=1636525068517376",
+        "https://loremflickr.com/640/480/cycling?lock=3297567920095232",
+        "https://loremflickr.com/640/480/cycling?lock=566066604408832",
+        "https://loremflickr.com/640/480/cycling?lock=2305928128888832",
+        "https://loremflickr.com/640/480/cycling?lock=7863417996050432",
+        "https://loremflickr.com/640/480/cycling?lock=7943662369505280",
+        "https://loremflickr.com/640/480/cycling?lock=32627551633408",
+        "https://loremflickr.com/640/480/cycling?lock=4102024526299136",
+        "https://loremflickr.com/640/480/cycling?lock=5058690472214528",
+        "https://loremflickr.com/640/480/cycling?lock=7198351850209280",
+        "https://loremflickr.com/640/480/cycling?lock=7448282265550848",
+        "https://loremflickr.com/640/480/cycling?lock=2127633991073792",
+        "https://loremflickr.com/640/480/cycling?lock=2033204741537792",
+        "https://loremflickr.com/640/480/cycling?lock=8502899730546688",
+        "https://loremflickr.com/640/480/cycling?lock=8838371235332096"
+      ],
+      "description": "Discover thrilling cycling routes, join group rides, and connect with fellow cycling enthusiasts in Rotterdam.",
+      "membershipFee": 0,
+      "discount": 0,
+      "meetingSchedule": "Every Wednesday",
+      "activities": [
+        "64f77195d8ee037384e86f49",
+        "64f77196d8ee037384e86f4b",
+        "64f77196d8ee037384e86f4d",
+        "64f77196d8ee037384e86f4f",
+        "64f77196d8ee037384e86f51",
+        "64f77196d8ee037384e86f53",
+        "64f77196d8ee037384e86f55"
+      ],
+      "createdAt": "2023-01-09T21:27:59.463Z",
+      "updatedAt": "2023-09-05T18:21:10.433Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 50.850345,
+          "longitude": 5.688345
+        },
+        "street": "123 Maastricht Street",
+        "city": "Maastricht",
+        "zip": "12345"
+      },
+      "_id": "64f77199d8ee037384e86fb2",
+      "name": "Maastricht Cycling Club",
+      "category": ["cycling"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/cycling?lock=2180324253499392",
+        "https://loremflickr.com/640/480/cycling?lock=4907032352129024",
+        "https://loremflickr.com/640/480/cycling?lock=3591191989846016",
+        "https://loremflickr.com/640/480/cycling?lock=1600550860750848",
+        "https://loremflickr.com/640/480/cycling?lock=3578751277334528",
+        "https://loremflickr.com/640/480/cycling?lock=1973261350993920",
+        "https://loremflickr.com/640/480/cycling?lock=8629512692563968",
+        "https://loremflickr.com/640/480/cycling?lock=2369387809996800",
+        "https://loremflickr.com/640/480/cycling?lock=1701121141768192",
+        "https://loremflickr.com/640/480/cycling?lock=6896902658326528",
+        "https://loremflickr.com/640/480/cycling?lock=1459999511412736",
+        "https://loremflickr.com/640/480/cycling?lock=3715516438937600",
+        "https://loremflickr.com/640/480/cycling?lock=6754905742114816",
+        "https://loremflickr.com/640/480/cycling?lock=697768299462656",
+        "https://loremflickr.com/640/480/cycling?lock=7367371855495168",
+        "https://loremflickr.com/640/480/cycling?lock=3085866910089216",
+        "https://loremflickr.com/640/480/cycling?lock=2511917620920320",
+        "https://loremflickr.com/640/480/cycling?lock=7856260149936128",
+        "https://loremflickr.com/640/480/cycling?lock=3419458768994304",
+        "https://loremflickr.com/640/480/cycling?lock=3192890197016576"
+      ],
+      "description": "Explore scenic routes in and around Maastricht, meet fellow cyclists, and enjoy group rides.",
+      "membershipFee": 0,
+      "discount": 0,
+      "meetingSchedule": "Every Wednesday",
+      "activities": [
+        "64f7719ad8ee037384e86fb4",
+        "64f7719ad8ee037384e86fb6",
+        "64f7719ad8ee037384e86fb8",
+        "64f7719ad8ee037384e86fba",
+        "64f7719ad8ee037384e86fbc",
+        "64f7719ad8ee037384e86fbe",
+        "64f7719ad8ee037384e86fc0"
+      ],
+      "createdAt": "2022-09-16T22:13:03.546Z",
+      "updatedAt": "2023-09-05T18:21:14.518Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 50.860345,
+          "longitude": 5.661789
+        },
+        "street": "123 Maastricht Street",
+        "city": "Maastricht",
+        "zip": "12345"
+      },
+      "_id": "64f771a2d8ee037384e87098",
+      "name": "Maastricht Cycling Club 2",
+      "category": ["cycling"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/cycling?lock=6963710054629376",
+        "https://loremflickr.com/640/480/cycling?lock=6797629214162944",
+        "https://loremflickr.com/640/480/cycling?lock=8418253896417280",
+        "https://loremflickr.com/640/480/cycling?lock=7259385782861824",
+        "https://loremflickr.com/640/480/cycling?lock=3284837282611200",
+        "https://loremflickr.com/640/480/cycling?lock=2334041963495424",
+        "https://loremflickr.com/640/480/cycling?lock=8941709188661248",
+        "https://loremflickr.com/640/480/cycling?lock=1184453913214976",
+        "https://loremflickr.com/640/480/cycling?lock=8435379701022720",
+        "https://loremflickr.com/640/480/cycling?lock=2977073251483648",
+        "https://loremflickr.com/640/480/cycling?lock=21376501022720",
+        "https://loremflickr.com/640/480/cycling?lock=7549421340327936",
+        "https://loremflickr.com/640/480/cycling?lock=3842799342452736",
+        "https://loremflickr.com/640/480/cycling?lock=6146302429626368",
+        "https://loremflickr.com/640/480/cycling?lock=2087896265785344",
+        "https://loremflickr.com/640/480/cycling?lock=4256366814298112",
+        "https://loremflickr.com/640/480/cycling?lock=753383084392448",
+        "https://loremflickr.com/640/480/cycling?lock=7606946318254080",
+        "https://loremflickr.com/640/480/cycling?lock=7166859283529728",
+        "https://loremflickr.com/640/480/cycling?lock=3809545702866944"
+      ],
+      "description": "Explore scenic routes in and around Maastricht, meet fellow cyclists, and enjoy group rides.",
+      "membershipFee": 60,
+      "discount": 50,
+      "meetingSchedule": "Every Thursday",
+      "activities": [
+        "64f771a2d8ee037384e8709a",
+        "64f771a2d8ee037384e8709c",
+        "64f771a2d8ee037384e8709e",
+        "64f771a2d8ee037384e870a0",
+        "64f771a3d8ee037384e870a2",
+        "64f771a3d8ee037384e870a4",
+        "64f771a3d8ee037384e870a6"
+      ],
+      "createdAt": "2023-06-05T18:14:59.834Z",
+      "updatedAt": "2023-09-05T18:21:23.226Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 50.876789,
+          "longitude": 5.634567
+        },
+        "street": "123 Maastricht Street",
+        "city": "Maastricht",
+        "zip": "12345"
+      },
+      "promotion": {
+        "Promotion": "Student Discount",
+        "Description": "Students get 15% off on club entry fees with a valid student ID."
+      },
+      "_id": "64f771bbd8ee037384e87340",
+      "name": "Maastricht Cycling Club 3",
+      "category": ["cycling"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/cycling?lock=5852260630265856",
+        "https://loremflickr.com/640/480/cycling?lock=3117202509135872",
+        "https://loremflickr.com/640/480/cycling?lock=5815028433289216",
+        "https://loremflickr.com/640/480/cycling?lock=1753964053790720",
+        "https://loremflickr.com/640/480/cycling?lock=5025669702483968",
+        "https://loremflickr.com/640/480/cycling?lock=4085386389225472",
+        "https://loremflickr.com/640/480/cycling?lock=8071133322543104",
+        "https://loremflickr.com/640/480/cycling?lock=2770127672049664",
+        "https://loremflickr.com/640/480/cycling?lock=3974328590794752",
+        "https://loremflickr.com/640/480/cycling?lock=7726129701978112",
+        "https://loremflickr.com/640/480/cycling?lock=1415888815259648",
+        "https://loremflickr.com/640/480/cycling?lock=8363180933775360",
+        "https://loremflickr.com/640/480/cycling?lock=7555654440976384",
+        "https://loremflickr.com/640/480/cycling?lock=408770612035584",
+        "https://loremflickr.com/640/480/cycling?lock=4771239608451072",
+        "https://loremflickr.com/640/480/cycling?lock=4832360614854656",
+        "https://loremflickr.com/640/480/cycling?lock=6033660958474240",
+        "https://loremflickr.com/640/480/cycling?lock=3509723391328256",
+        "https://loremflickr.com/640/480/cycling?lock=4646871748313088",
+        "https://loremflickr.com/640/480/cycling?lock=2256890127974400"
+      ],
+      "description": "Explore scenic routes in and around Maastricht, meet fellow cyclists, and enjoy group rides.",
+      "membershipFee": 50,
+      "discount": 50,
+      "meetingSchedule": "Weekdays (Monday to Friday)",
+      "activities": [
+        "64f771bbd8ee037384e87342",
+        "64f771bbd8ee037384e87344",
+        "64f771bbd8ee037384e87346",
+        "64f771bcd8ee037384e87348",
+        "64f771bcd8ee037384e8734a",
+        "64f771bcd8ee037384e8734c",
+        "64f771bcd8ee037384e8734e"
+      ],
+      "createdAt": "2023-08-08T19:21:24.672Z",
+      "updatedAt": "2023-09-05T18:21:48.611Z",
+      "__v": 0
+    }
+  ],
+  [
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 52.364678,
+          "longitude": 4.716682
+        },
+        "street": "234 Dutch Lane",
+        "city": "Amsterdam",
+        "zip": "23456"
+      },
+      "_id": "64f77181d8ee037384e86d32",
+      "name": "Amsterdam Fishing Enthusiasts",
+      "category": ["fishing"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/fishing?lock=629463771512832",
+        "https://loremflickr.com/640/480/fishing?lock=5648806641139712",
+        "https://loremflickr.com/640/480/fishing?lock=3748617860939776",
+        "https://loremflickr.com/640/480/fishing?lock=2305056831438848",
+        "https://loremflickr.com/640/480/fishing?lock=745335288758272",
+        "https://loremflickr.com/640/480/fishing?lock=969819427962880",
+        "https://loremflickr.com/640/480/fishing?lock=3489457707679744",
+        "https://loremflickr.com/640/480/fishing?lock=7790620613541888",
+        "https://loremflickr.com/640/480/fishing?lock=8188350611587072",
+        "https://loremflickr.com/640/480/fishing?lock=1420976355016704",
+        "https://loremflickr.com/640/480/fishing?lock=6653690098221056",
+        "https://loremflickr.com/640/480/fishing?lock=2864270092009472",
+        "https://loremflickr.com/640/480/fishing?lock=4487974276300800",
+        "https://loremflickr.com/640/480/fishing?lock=2894726623657984",
+        "https://loremflickr.com/640/480/fishing?lock=6682632597274624",
+        "https://loremflickr.com/640/480/fishing?lock=965031038550016",
+        "https://loremflickr.com/640/480/fishing?lock=926448833527808",
+        "https://loremflickr.com/640/480/fishing?lock=7463975404961792",
+        "https://loremflickr.com/640/480/fishing?lock=2919365869568000",
+        "https://loremflickr.com/640/480/fishing?lock=5560878088847360"
+      ],
+      "description": "Fish in the beautiful waters of Amsterdam, share fishing tips, and organize fishing trips.",
+      "membershipFee": 0,
+      "discount": 0,
+      "meetingSchedule": "Every day",
+      "activities": [
+        "64f77181d8ee037384e86d34",
+        "64f77181d8ee037384e86d36",
+        "64f77181d8ee037384e86d38",
+        "64f77181d8ee037384e86d3a",
+        "64f77181d8ee037384e86d3c",
+        "64f77181d8ee037384e86d3e"
+      ],
+      "createdAt": "2023-05-30T08:07:14.046Z",
+      "updatedAt": "2023-09-05T18:20:50.010Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 52.366684,
+          "longitude": 4.652989
+        },
+        "street": "234 Dutch Lane",
+        "city": "Amsterdam",
+        "zip": "23456"
+      },
+      "promotion": {
+        "Promotion": "Refer-a-Friend Bonus",
+        "Description": "Refer a friend to our club, and both of you will receive a 20% discount on your next visit."
+      },
+      "_id": "64f7718ad8ee037384e86e18",
+      "name": "Amsterdam Fishing Enthusiasts",
+      "category": ["fishing"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/fishing?lock=2270352262561792",
+        "https://loremflickr.com/640/480/fishing?lock=6722864201859072",
+        "https://loremflickr.com/640/480/fishing?lock=4332105129525248",
+        "https://loremflickr.com/640/480/fishing?lock=6724711593541632",
+        "https://loremflickr.com/640/480/fishing?lock=529429967142912",
+        "https://loremflickr.com/640/480/fishing?lock=1313558858039296",
+        "https://loremflickr.com/640/480/fishing?lock=1895760918478848",
+        "https://loremflickr.com/640/480/fishing?lock=6427672146083840",
+        "https://loremflickr.com/640/480/fishing?lock=4909215835488256",
+        "https://loremflickr.com/640/480/fishing?lock=439268786831360",
+        "https://loremflickr.com/640/480/fishing?lock=114674118950912",
+        "https://loremflickr.com/640/480/fishing?lock=5008726884876288",
+        "https://loremflickr.com/640/480/fishing?lock=504914950225920",
+        "https://loremflickr.com/640/480/fishing?lock=5381000974565376",
+        "https://loremflickr.com/640/480/fishing?lock=2733928662171648",
+        "https://loremflickr.com/640/480/fishing?lock=4441360847339520",
+        "https://loremflickr.com/640/480/fishing?lock=8266661595447296",
+        "https://loremflickr.com/640/480/fishing?lock=1300226830761984",
+        "https://loremflickr.com/640/480/fishing?lock=3342410864132096",
+        "https://loremflickr.com/640/480/fishing?lock=3580301395623936"
+      ],
+      "description": "Fish in the beautiful waters of Amsterdam, share fishing tips, and organize fishing trips.",
+      "membershipFee": 40,
+      "discount": 20,
+      "meetingSchedule": "Every business day (Monday to Friday)",
+      "activities": [
+        "64f7718ad8ee037384e86e1a",
+        "64f7718ad8ee037384e86e1c",
+        "64f7718ad8ee037384e86e1e",
+        "64f7718ad8ee037384e86e20",
+        "64f7718ad8ee037384e86e22",
+        "64f7718ad8ee037384e86e24"
+      ],
+      "createdAt": "2023-07-28T12:06:07.869Z",
+      "updatedAt": "2023-09-05T18:20:58.916Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 51.9177,
+          "longitude": 4.482972
+        },
+        "street": "123 Rotterdam Street",
+        "city": "Rotterdam",
+        "zip": "12345"
+      },
+      "_id": "64f77192d8ee037384e86eed",
+      "name": "Rotterdam Fishing Enthusiasts",
+      "category": ["fishing"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/fishing?lock=5467179136843776",
+        "https://loremflickr.com/640/480/fishing?lock=6816829701881856",
+        "https://loremflickr.com/640/480/fishing?lock=4339514520633344",
+        "https://loremflickr.com/640/480/fishing?lock=5319766067642368",
+        "https://loremflickr.com/640/480/fishing?lock=2530097898717184",
+        "https://loremflickr.com/640/480/fishing?lock=198624726220800",
+        "https://loremflickr.com/640/480/fishing?lock=3776797692919808",
+        "https://loremflickr.com/640/480/fishing?lock=8815267637362688",
+        "https://loremflickr.com/640/480/fishing?lock=2970145880276992",
+        "https://loremflickr.com/640/480/fishing?lock=5636883572850688",
+        "https://loremflickr.com/640/480/fishing?lock=7986989800357888",
+        "https://loremflickr.com/640/480/fishing?lock=6136722356174848",
+        "https://loremflickr.com/640/480/fishing?lock=207092514291712",
+        "https://loremflickr.com/640/480/fishing?lock=6438127491088384",
+        "https://loremflickr.com/640/480/fishing?lock=1506213927845888",
+        "https://loremflickr.com/640/480/fishing?lock=436465372758016",
+        "https://loremflickr.com/640/480/fishing?lock=167919589785600",
+        "https://loremflickr.com/640/480/fishing?lock=8266940181118976",
+        "https://loremflickr.com/640/480/fishing?lock=667358016307200",
+        "https://loremflickr.com/640/480/fishing?lock=1064821554413568"
+      ],
+      "description": "Fish in the picturesque waters of Rotterdam, share angling expertise, and embark on fishing expeditions.",
+      "membershipFee": 50,
+      "discount": 0,
+      "meetingSchedule": "Every Wednesday",
+      "activities": [
+        "64f77192d8ee037384e86eef",
+        "64f77192d8ee037384e86ef1",
+        "64f77192d8ee037384e86ef3",
+        "64f77192d8ee037384e86ef5",
+        "64f77192d8ee037384e86ef7",
+        "64f77192d8ee037384e86ef9"
+      ],
+      "createdAt": "2023-06-18T19:55:49.088Z",
+      "updatedAt": "2023-09-05T18:21:07.019Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 50.851234,
+          "longitude": 5.686789
+        },
+        "street": "234 River Lane",
+        "city": "Maastricht",
+        "zip": "23456"
+      },
+      "_id": "64f7719ad8ee037384e86fc3",
+      "name": "Maastricht Fishing Enthusiasts",
+      "category": ["fishing"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/fishing?lock=4482761249259520",
+        "https://loremflickr.com/640/480/fishing?lock=2888547996532736",
+        "https://loremflickr.com/640/480/fishing?lock=492681847373824",
+        "https://loremflickr.com/640/480/fishing?lock=376742925565952",
+        "https://loremflickr.com/640/480/fishing?lock=5851649803288576",
+        "https://loremflickr.com/640/480/fishing?lock=6048517009178624",
+        "https://loremflickr.com/640/480/fishing?lock=5244193196736512",
+        "https://loremflickr.com/640/480/fishing?lock=8495889010130944",
+        "https://loremflickr.com/640/480/fishing?lock=3878212463493120",
+        "https://loremflickr.com/640/480/fishing?lock=3847278418722816",
+        "https://loremflickr.com/640/480/fishing?lock=897256297332736",
+        "https://loremflickr.com/640/480/fishing?lock=5523875204956160",
+        "https://loremflickr.com/640/480/fishing?lock=2166320265166848",
+        "https://loremflickr.com/640/480/fishing?lock=7379098615676928",
+        "https://loremflickr.com/640/480/fishing?lock=6760350181490688",
+        "https://loremflickr.com/640/480/fishing?lock=728046457847808",
+        "https://loremflickr.com/640/480/fishing?lock=8392210359779328",
+        "https://loremflickr.com/640/480/fishing?lock=4843405370720256",
+        "https://loremflickr.com/640/480/fishing?lock=1396956022702080",
+        "https://loremflickr.com/640/480/fishing?lock=6345820257386496"
+      ],
+      "description": "Fish in the serene waters of Maastricht, share fishing knowledge, and plan fishing adventures.",
+      "membershipFee": 0,
+      "discount": 0,
+      "meetingSchedule": "Every last Friday of the month",
+      "activities": [
+        "64f7719ad8ee037384e86fc5",
+        "64f7719ad8ee037384e86fc7",
+        "64f7719ad8ee037384e86fc9",
+        "64f7719ad8ee037384e86fcb",
+        "64f7719ad8ee037384e86fcd",
+        "64f7719ad8ee037384e86fcf"
+      ],
+      "createdAt": "2022-12-05T10:58:44.616Z",
+      "updatedAt": "2023-09-05T18:21:15.043Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 50.861234,
+          "longitude": 5.660123
+        },
+        "street": "234 River Lane",
+        "city": "Maastricht",
+        "zip": "23456"
+      },
+      "_id": "64f771a3d8ee037384e870a9",
+      "name": "Maastricht Fishing Enthusiasts 2",
+      "category": ["fishing"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/fishing?lock=5558140917514240",
+        "https://loremflickr.com/640/480/fishing?lock=2045954674917376",
+        "https://loremflickr.com/640/480/fishing?lock=3280901190451200",
+        "https://loremflickr.com/640/480/fishing?lock=7821620999618560",
+        "https://loremflickr.com/640/480/fishing?lock=8248985374425088",
+        "https://loremflickr.com/640/480/fishing?lock=5567166319427584",
+        "https://loremflickr.com/640/480/fishing?lock=519968414236672",
+        "https://loremflickr.com/640/480/fishing?lock=7510590331289600",
+        "https://loremflickr.com/640/480/fishing?lock=5573723476197376",
+        "https://loremflickr.com/640/480/fishing?lock=8741255594901504",
+        "https://loremflickr.com/640/480/fishing?lock=5434950478200832",
+        "https://loremflickr.com/640/480/fishing?lock=3130402724118528",
+        "https://loremflickr.com/640/480/fishing?lock=7856672565362688",
+        "https://loremflickr.com/640/480/fishing?lock=7378605443121152",
+        "https://loremflickr.com/640/480/fishing?lock=4406450470256640",
+        "https://loremflickr.com/640/480/fishing?lock=2629161703178240",
+        "https://loremflickr.com/640/480/fishing?lock=7514665819045888",
+        "https://loremflickr.com/640/480/fishing?lock=8753974255550464",
+        "https://loremflickr.com/640/480/fishing?lock=2599859957792768",
+        "https://loremflickr.com/640/480/fishing?lock=2738797110362112"
+      ],
+      "description": "Fish in the serene waters of Maastricht, share fishing knowledge, and plan fishing adventures.",
+      "membershipFee": 0,
+      "discount": 0,
+      "meetingSchedule": "Every first Monday of the month",
+      "activities": [
+        "64f771a3d8ee037384e870ab",
+        "64f771a3d8ee037384e870ad",
+        "64f771a3d8ee037384e870af",
+        "64f771a3d8ee037384e870b1",
+        "64f771a3d8ee037384e870b3",
+        "64f771a3d8ee037384e870b5"
+      ],
+      "createdAt": "2022-12-15T16:22:41.523Z",
+      "updatedAt": "2023-09-05T18:21:23.775Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 50.87789,
+          "longitude": 5.632901
+        },
+        "street": "234 River Lane",
+        "city": "Maastricht",
+        "zip": "23456"
+      },
+      "promotion": {
+        "Promotion": "Frequent Visitor Rewards",
+        "Description": "Collect stamps every time you visit. After 5 stamps, get a free drink or entry to a special event."
+      },
+      "_id": "64f771bcd8ee037384e87351",
+      "name": "Maastricht Fishing Enthusiasts 3",
+      "category": ["fishing"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/fishing?lock=8366983206666240",
+        "https://loremflickr.com/640/480/fishing?lock=3777594386284544",
+        "https://loremflickr.com/640/480/fishing?lock=3377862306430976",
+        "https://loremflickr.com/640/480/fishing?lock=5111167204720640",
+        "https://loremflickr.com/640/480/fishing?lock=8000311826317312",
+        "https://loremflickr.com/640/480/fishing?lock=505513114599424",
+        "https://loremflickr.com/640/480/fishing?lock=1574021189599232",
+        "https://loremflickr.com/640/480/fishing?lock=6770092595478528",
+        "https://loremflickr.com/640/480/fishing?lock=5607700677263360",
+        "https://loremflickr.com/640/480/fishing?lock=34140256731136",
+        "https://loremflickr.com/640/480/fishing?lock=282366494900224",
+        "https://loremflickr.com/640/480/fishing?lock=7672416073416704",
+        "https://loremflickr.com/640/480/fishing?lock=5040244187463680",
+        "https://loremflickr.com/640/480/fishing?lock=7998428455895040",
+        "https://loremflickr.com/640/480/fishing?lock=2007101993910272",
+        "https://loremflickr.com/640/480/fishing?lock=7601485068107776",
+        "https://loremflickr.com/640/480/fishing?lock=6226903188897792",
+        "https://loremflickr.com/640/480/fishing?lock=3440174188986368",
+        "https://loremflickr.com/640/480/fishing?lock=3161854291476480",
+        "https://loremflickr.com/640/480/fishing?lock=5292338899320832"
+      ],
+      "description": "Fish in the serene waters of Maastricht, share fishing knowledge, and plan fishing adventures.",
+      "membershipFee": 90,
+      "discount": 50,
+      "meetingSchedule": "Every first Monday of the month",
+      "activities": [
+        "64f771bcd8ee037384e87353",
+        "64f771bcd8ee037384e87355",
+        "64f771bcd8ee037384e87357",
+        "64f771bcd8ee037384e87359",
+        "64f771bdd8ee037384e8735b",
+        "64f771bdd8ee037384e8735d"
+      ],
+      "createdAt": "2022-09-29T12:33:03.774Z",
+      "updatedAt": "2023-09-05T18:21:49.158Z",
+      "__v": 0
+    }
+  ],
+  [
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 52.364907,
+          "longitude": 4.708202
+        },
+        "street": "456 Tulip Road",
+        "city": "Amsterdam",
+        "zip": "45678"
+      },
+      "promotion": {
+        "Promotion": "Sports Fanatics",
+        "Description": "Show your team spirit by wearing your favorite sports team's jersey and get a discount during game nights."
+      },
+      "_id": "64f77182d8ee037384e86d44",
+      "name": "Amsterdam Soccer Club",
+      "category": ["sports"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/sports?lock=1681062602211328",
+        "https://loremflickr.com/640/480/sports?lock=1791861805023232",
+        "https://loremflickr.com/640/480/sports?lock=6716952001118208",
+        "https://loremflickr.com/640/480/sports?lock=8731349141684224",
+        "https://loremflickr.com/640/480/sports?lock=5710457742557184",
+        "https://loremflickr.com/640/480/sports?lock=5344393355591680",
+        "https://loremflickr.com/640/480/sports?lock=3112326179848192",
+        "https://loremflickr.com/640/480/sports?lock=5260941186826240",
+        "https://loremflickr.com/640/480/sports?lock=5129908428734464",
+        "https://loremflickr.com/640/480/sports?lock=1083005988765696",
+        "https://loremflickr.com/640/480/sports?lock=2185148642623488",
+        "https://loremflickr.com/640/480/sports?lock=5601532611395584",
+        "https://loremflickr.com/640/480/sports?lock=4514067710476288",
+        "https://loremflickr.com/640/480/sports?lock=593238645800960",
+        "https://loremflickr.com/640/480/sports?lock=2390494302699520",
+        "https://loremflickr.com/640/480/sports?lock=7898389008089088",
+        "https://loremflickr.com/640/480/sports?lock=2744677826560000",
+        "https://loremflickr.com/640/480/sports?lock=4195205091688448",
+        "https://loremflickr.com/640/480/sports?lock=8574923343659008",
+        "https://loremflickr.com/640/480/sports?lock=4030068210794496"
+      ],
+      "description": "Play soccer, join matches, and compete in local tournaments with a friendly and competitive group.",
+      "membershipFee": 40,
+      "discount": 50,
+      "meetingSchedule": "Every day",
+      "activities": [
+        "64f77182d8ee037384e86d46",
+        "64f77182d8ee037384e86d48",
+        "64f77182d8ee037384e86d4a",
+        "64f77182d8ee037384e86d4c",
+        "64f77182d8ee037384e86d4e",
+        "64f77182d8ee037384e86d50"
+      ],
+      "createdAt": "2023-08-02T22:11:17.503Z",
+      "updatedAt": "2023-09-05T18:20:50.622Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 52.366951,
+          "longitude": 4.645245
+        },
+        "street": "456 Tulip Road",
+        "city": "Amsterdam",
+        "zip": "45678"
+      },
+      "_id": "64f7718bd8ee037384e86e2a",
+      "name": "Amsterdam Soccer Club",
+      "category": ["sports"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/sports?lock=5871849967714304",
+        "https://loremflickr.com/640/480/sports?lock=6171967000412160",
+        "https://loremflickr.com/640/480/sports?lock=242065095000064",
+        "https://loremflickr.com/640/480/sports?lock=1354022923534336",
+        "https://loremflickr.com/640/480/sports?lock=4778141719461888",
+        "https://loremflickr.com/640/480/sports?lock=2101774313848832",
+        "https://loremflickr.com/640/480/sports?lock=2437381124784128",
+        "https://loremflickr.com/640/480/sports?lock=3438985806348288",
+        "https://loremflickr.com/640/480/sports?lock=2267409337548800",
+        "https://loremflickr.com/640/480/sports?lock=6742454545940480",
+        "https://loremflickr.com/640/480/sports?lock=422475720556544",
+        "https://loremflickr.com/640/480/sports?lock=7702281958981632",
+        "https://loremflickr.com/640/480/sports?lock=234636808552448",
+        "https://loremflickr.com/640/480/sports?lock=7801276500803584",
+        "https://loremflickr.com/640/480/sports?lock=8061923633397760",
+        "https://loremflickr.com/640/480/sports?lock=5110064425730048",
+        "https://loremflickr.com/640/480/sports?lock=4585058566406144",
+        "https://loremflickr.com/640/480/sports?lock=316464582098944",
+        "https://loremflickr.com/640/480/sports?lock=2147813458706432",
+        "https://loremflickr.com/640/480/sports?lock=4009591572529152"
+      ],
+      "description": "Play soccer, join matches, and compete in local tournaments with a friendly and competitive group.",
+      "membershipFee": 0,
+      "discount": 0,
+      "meetingSchedule": "Every Saturday",
+      "activities": [
+        "64f7718bd8ee037384e86e2c",
+        "64f7718bd8ee037384e86e2e",
+        "64f7718bd8ee037384e86e30",
+        "64f7718bd8ee037384e86e32",
+        "64f7718bd8ee037384e86e34",
+        "64f7718bd8ee037384e86e36"
+      ],
+      "createdAt": "2023-08-14T02:27:08.862Z",
+      "updatedAt": "2023-09-05T18:20:59.593Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 51.907678,
+          "longitude": 4.464889
+        },
+        "street": "234 Port Lane",
+        "city": "Rotterdam",
+        "zip": "23456"
+      },
+      "_id": "64f77193d8ee037384e86efc",
+      "name": "Rotterdam Soccer Club",
+      "category": ["sports"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/sports?lock=7229805573439488",
+        "https://loremflickr.com/640/480/sports?lock=1062166887137280",
+        "https://loremflickr.com/640/480/sports?lock=1985850176962560",
+        "https://loremflickr.com/640/480/sports?lock=1889593228001280",
+        "https://loremflickr.com/640/480/sports?lock=2012737106345984",
+        "https://loremflickr.com/640/480/sports?lock=4565476157947904",
+        "https://loremflickr.com/640/480/sports?lock=3261486994554880",
+        "https://loremflickr.com/640/480/sports?lock=1698654119264256",
+        "https://loremflickr.com/640/480/sports?lock=5171603692322816",
+        "https://loremflickr.com/640/480/sports?lock=1700331744395264",
+        "https://loremflickr.com/640/480/sports?lock=3347924209631232",
+        "https://loremflickr.com/640/480/sports?lock=1149625968885760",
+        "https://loremflickr.com/640/480/sports?lock=1548084469301248",
+        "https://loremflickr.com/640/480/sports?lock=3599262057234432",
+        "https://loremflickr.com/640/480/sports?lock=4776059952168960",
+        "https://loremflickr.com/640/480/sports?lock=5178967537483776",
+        "https://loremflickr.com/640/480/sports?lock=7197707124867072",
+        "https://loremflickr.com/640/480/sports?lock=8300706322710528",
+        "https://loremflickr.com/640/480/sports?lock=229555839172608",
+        "https://loremflickr.com/640/480/sports?lock=8497749829877760"
+      ],
+      "description": "Participate in thrilling soccer matches and tournaments with a spirited and friendly soccer community.",
+      "membershipFee": 10,
+      "discount": 30,
+      "meetingSchedule": "Every day",
+      "activities": [
+        "64f77193d8ee037384e86efe",
+        "64f77193d8ee037384e86f00",
+        "64f77193d8ee037384e86f02",
+        "64f77193d8ee037384e86f04",
+        "64f77193d8ee037384e86f06",
+        "64f77193d8ee037384e86f08"
+      ],
+      "createdAt": "2023-07-09T14:06:04.344Z",
+      "updatedAt": "2023-09-05T18:21:07.610Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 50.853456,
+          "longitude": 5.683456
+        },
+        "street": "456 Hill Road",
+        "city": "Maastricht",
+        "zip": "45678"
+      },
+      "promotion": {
+        "Promotion": "Early Bird Special",
+        "Description": "Arrive at our club between 5 PM and 7 PM and enjoy half-price drinks during our early bird hours."
+      },
+      "_id": "64f7719bd8ee037384e86fd5",
+      "name": "Maastricht Soccer Club",
+      "category": ["sports"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/sports?lock=7092735903268864",
+        "https://loremflickr.com/640/480/sports?lock=7157492549156864",
+        "https://loremflickr.com/640/480/sports?lock=8530592022921216",
+        "https://loremflickr.com/640/480/sports?lock=4427029350973440",
+        "https://loremflickr.com/640/480/sports?lock=4692243478740992",
+        "https://loremflickr.com/640/480/sports?lock=8750916127686656",
+        "https://loremflickr.com/640/480/sports?lock=3171540445167616",
+        "https://loremflickr.com/640/480/sports?lock=7814214750044160",
+        "https://loremflickr.com/640/480/sports?lock=7135271436943360",
+        "https://loremflickr.com/640/480/sports?lock=1330348157829120",
+        "https://loremflickr.com/640/480/sports?lock=2937703440056320",
+        "https://loremflickr.com/640/480/sports?lock=5657194122969088",
+        "https://loremflickr.com/640/480/sports?lock=341312045842432",
+        "https://loremflickr.com/640/480/sports?lock=5148895885656064",
+        "https://loremflickr.com/640/480/sports?lock=7806629112184832",
+        "https://loremflickr.com/640/480/sports?lock=851860250427392",
+        "https://loremflickr.com/640/480/sports?lock=2662891801018368",
+        "https://loremflickr.com/640/480/sports?lock=7590563331178496",
+        "https://loremflickr.com/640/480/sports?lock=6336702584979456",
+        "https://loremflickr.com/640/480/sports?lock=3729237236252672"
+      ],
+      "description": "Play soccer, join matches, and experience the thrill of competitive soccer in Maastricht.",
+      "membershipFee": 10,
+      "discount": 20,
+      "meetingSchedule": "Once a month",
+      "activities": [
+        "64f7719bd8ee037384e86fd7",
+        "64f7719bd8ee037384e86fd9",
+        "64f7719bd8ee037384e86fdb",
+        "64f7719bd8ee037384e86fdd",
+        "64f7719bd8ee037384e86fdf",
+        "64f7719bd8ee037384e86fe1"
+      ],
+      "createdAt": "2022-10-28T14:29:32.963Z",
+      "updatedAt": "2023-09-05T18:21:15.793Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 50.863456,
+          "longitude": 5.656789
+        },
+        "street": "456 Hill Road",
+        "city": "Maastricht",
+        "zip": "45678"
+      },
+      "_id": "64f771a3d8ee037384e870bb",
+      "name": "Maastricht Soccer Club 2",
+      "category": ["sports"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/sports?lock=8967007795937280",
+        "https://loremflickr.com/640/480/sports?lock=632314690273280",
+        "https://loremflickr.com/640/480/sports?lock=8308852028080128",
+        "https://loremflickr.com/640/480/sports?lock=288410709262336",
+        "https://loremflickr.com/640/480/sports?lock=4679197737877504",
+        "https://loremflickr.com/640/480/sports?lock=7763111150878720",
+        "https://loremflickr.com/640/480/sports?lock=3970857066037248",
+        "https://loremflickr.com/640/480/sports?lock=6902182192349184",
+        "https://loremflickr.com/640/480/sports?lock=2438594929098752",
+        "https://loremflickr.com/640/480/sports?lock=5015346798919680",
+        "https://loremflickr.com/640/480/sports?lock=8325883379056640",
+        "https://loremflickr.com/640/480/sports?lock=1618399461376000",
+        "https://loremflickr.com/640/480/sports?lock=8986760778350592",
+        "https://loremflickr.com/640/480/sports?lock=4448573536075776",
+        "https://loremflickr.com/640/480/sports?lock=1914467382198272",
+        "https://loremflickr.com/640/480/sports?lock=3817355301879808",
+        "https://loremflickr.com/640/480/sports?lock=2010492757344256",
+        "https://loremflickr.com/640/480/sports?lock=5333679050063872",
+        "https://loremflickr.com/640/480/sports?lock=413154039300096",
+        "https://loremflickr.com/640/480/sports?lock=5880888399233024"
+      ],
+      "description": "Play soccer, join matches, and experience the thrill of competitive soccer in Maastricht.",
+      "membershipFee": 0,
+      "discount": 0,
+      "meetingSchedule": "Bi-weekly (Every two weeks)",
+      "activities": [
+        "64f771a4d8ee037384e870bd",
+        "64f771a4d8ee037384e870bf",
+        "64f771a4d8ee037384e870c1",
+        "64f771a4d8ee037384e870c3",
+        "64f771a4d8ee037384e870c5",
+        "64f771a4d8ee037384e870c7"
+      ],
+      "createdAt": "2022-10-16T06:48:31.464Z",
+      "updatedAt": "2023-09-05T18:21:24.413Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 52.373456,
+          "longitude": 4.620678
+        },
+        "street": "234 Tennis Lane",
+        "city": "Amsterdam",
+        "zip": "23456"
+      },
+      "_id": "64f771abd8ee037384e8718d",
+      "name": "Amsterdam Tennis Club 2",
+      "category": ["sports"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/sports?lock=2312446006001664",
+        "https://loremflickr.com/640/480/sports?lock=1121362026430464",
+        "https://loremflickr.com/640/480/sports?lock=4343197650124800",
+        "https://loremflickr.com/640/480/sports?lock=2556358354272256",
+        "https://loremflickr.com/640/480/sports?lock=721305598951424",
+        "https://loremflickr.com/640/480/sports?lock=4686133589966848",
+        "https://loremflickr.com/640/480/sports?lock=4385747217940480",
+        "https://loremflickr.com/640/480/sports?lock=2910652228173824",
+        "https://loremflickr.com/640/480/sports?lock=3167711148376064",
+        "https://loremflickr.com/640/480/sports?lock=8365752753061888",
+        "https://loremflickr.com/640/480/sports?lock=8910698962747392",
+        "https://loremflickr.com/640/480/sports?lock=6371648794001408",
+        "https://loremflickr.com/640/480/sports?lock=8103564610109440",
+        "https://loremflickr.com/640/480/sports?lock=3895887828877312",
+        "https://loremflickr.com/640/480/sports?lock=6590931585204224",
+        "https://loremflickr.com/640/480/sports?lock=7452951996006400",
+        "https://loremflickr.com/640/480/sports?lock=362580568702976",
+        "https://loremflickr.com/640/480/sports?lock=6638801266933760",
+        "https://loremflickr.com/640/480/sports?lock=4174418584535040",
+        "https://loremflickr.com/640/480/sports?lock=4923204690771968"
+      ],
+      "description": "Enjoy playing tennis, join tournaments, and improve your skills in Amsterdam's tennis community.",
+      "membershipFee": 0,
+      "discount": 0,
+      "meetingSchedule": "Every Monday",
+      "activities": [
+        "64f771abd8ee037384e8718f",
+        "64f771abd8ee037384e87191",
+        "64f771abd8ee037384e87193",
+        "64f771acd8ee037384e87195",
+        "64f771acd8ee037384e87197",
+        "64f771acd8ee037384e87199"
+      ],
+      "createdAt": "2023-05-19T14:00:13.129Z",
+      "updatedAt": "2023-09-05T18:21:32.234Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 51.919901,
+          "longitude": 4.482901
+        },
+        "street": "234 Tennis Lane",
+        "city": "Rotterdam",
+        "zip": "23456"
+      },
+      "_id": "64f771b3d8ee037384e8726e",
+      "name": "Rotterdam Tennis Club 2",
+      "category": ["sports"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/sports?lock=2465464699584512",
+        "https://loremflickr.com/640/480/sports?lock=1400092621799424",
+        "https://loremflickr.com/640/480/sports?lock=5431675108458496",
+        "https://loremflickr.com/640/480/sports?lock=6235480198742016",
+        "https://loremflickr.com/640/480/sports?lock=8985524259782656",
+        "https://loremflickr.com/640/480/sports?lock=4079272706703360",
+        "https://loremflickr.com/640/480/sports?lock=1515445282668544",
+        "https://loremflickr.com/640/480/sports?lock=6900810556375040",
+        "https://loremflickr.com/640/480/sports?lock=8131431221952512",
+        "https://loremflickr.com/640/480/sports?lock=1552208468377600",
+        "https://loremflickr.com/640/480/sports?lock=6931486852775936",
+        "https://loremflickr.com/640/480/sports?lock=4601238846963712",
+        "https://loremflickr.com/640/480/sports?lock=8375534027276288",
+        "https://loremflickr.com/640/480/sports?lock=3179365242241024",
+        "https://loremflickr.com/640/480/sports?lock=5228055737925632",
+        "https://loremflickr.com/640/480/sports?lock=1457717885534208",
+        "https://loremflickr.com/640/480/sports?lock=6773048839503872",
+        "https://loremflickr.com/640/480/sports?lock=8819527947124736",
+        "https://loremflickr.com/640/480/sports?lock=1750866428166144",
+        "https://loremflickr.com/640/480/sports?lock=979756124209152"
+      ],
+      "description": "Enjoy playing tennis, join tournaments, and improve your skills in Rotterdam's tennis community.",
+      "membershipFee": 0,
+      "discount": 0,
+      "meetingSchedule": "Bi-weekly (Every two weeks)",
+      "activities": [
+        "64f771b3d8ee037384e87270",
+        "64f771b3d8ee037384e87272",
+        "64f771b4d8ee037384e87274",
+        "64f771b4d8ee037384e87276",
+        "64f771b4d8ee037384e87278",
+        "64f771b4d8ee037384e8727a"
+      ],
+      "createdAt": "2022-09-22T07:41:12.133Z",
+      "updatedAt": "2023-09-05T18:21:40.359Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 50.879901,
+          "longitude": 5.629567
+        },
+        "street": "456 Hill Road",
+        "city": "Maastricht",
+        "zip": "45678"
+      },
+      "_id": "64f771bdd8ee037384e87363",
+      "name": "Maastricht Soccer Club 3",
+      "category": ["sports"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/sports?lock=8780142568538112",
+        "https://loremflickr.com/640/480/sports?lock=4854454874537984",
+        "https://loremflickr.com/640/480/sports?lock=5813706860527616",
+        "https://loremflickr.com/640/480/sports?lock=1458316114919424",
+        "https://loremflickr.com/640/480/sports?lock=3630277217746944",
+        "https://loremflickr.com/640/480/sports?lock=2176518589513728",
+        "https://loremflickr.com/640/480/sports?lock=2990726201737216",
+        "https://loremflickr.com/640/480/sports?lock=1897719532617728",
+        "https://loremflickr.com/640/480/sports?lock=3130099765346304",
+        "https://loremflickr.com/640/480/sports?lock=2689030709837824",
+        "https://loremflickr.com/640/480/sports?lock=4520855639949312",
+        "https://loremflickr.com/640/480/sports?lock=2361295118532608",
+        "https://loremflickr.com/640/480/sports?lock=155482475986944",
+        "https://loremflickr.com/640/480/sports?lock=4350225332305920",
+        "https://loremflickr.com/640/480/sports?lock=6973122678882304",
+        "https://loremflickr.com/640/480/sports?lock=8572888464490496",
+        "https://loremflickr.com/640/480/sports?lock=2215076322869248",
+        "https://loremflickr.com/640/480/sports?lock=8530966750429184",
+        "https://loremflickr.com/640/480/sports?lock=1846151093420032",
+        "https://loremflickr.com/640/480/sports?lock=7214093628866560"
+      ],
+      "description": "Play soccer, join matches, and experience the thrill of competitive soccer in Maastricht.",
+      "membershipFee": 100,
+      "discount": 50,
+      "meetingSchedule": "Every Sunday",
+      "activities": [
+        "64f771bdd8ee037384e87365",
+        "64f771bdd8ee037384e87367",
+        "64f771bdd8ee037384e87369",
+        "64f771bdd8ee037384e8736b",
+        "64f771bdd8ee037384e8736d",
+        "64f771bdd8ee037384e8736f"
+      ],
+      "createdAt": "2023-01-10T09:54:30.666Z",
+      "updatedAt": "2023-09-05T18:21:49.807Z",
+      "__v": 0
+    }
+  ],
+  [
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 52.365272,
+          "longitude": 4.696113
+        },
+        "street": "789 Cheese Avenue",
+        "city": "Amsterdam",
+        "zip": "78901"
+      },
+      "promotion": {
+        "Promotion": "Live Music Fridays",
+        "Description": "Live music lovers get discounted entry on Fridays when we have live bands performing."
+      },
+      "_id": "64f77183d8ee037384e86d71",
+      "name": "Amsterdam Hiking Group",
+      "category": ["adventure"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/adventure?lock=3389044337672192",
+        "https://loremflickr.com/640/480/adventure?lock=1477551230812160",
+        "https://loremflickr.com/640/480/adventure?lock=4965354010836992",
+        "https://loremflickr.com/640/480/adventure?lock=4464125543448576",
+        "https://loremflickr.com/640/480/adventure?lock=4697126990774272",
+        "https://loremflickr.com/640/480/adventure?lock=3165248582320128",
+        "https://loremflickr.com/640/480/adventure?lock=7097246193549312",
+        "https://loremflickr.com/640/480/adventure?lock=5610716736258048",
+        "https://loremflickr.com/640/480/adventure?lock=1505558435725312",
+        "https://loremflickr.com/640/480/adventure?lock=6686107548778496",
+        "https://loremflickr.com/640/480/adventure?lock=2920586527375360",
+        "https://loremflickr.com/640/480/adventure?lock=170707197624320",
+        "https://loremflickr.com/640/480/adventure?lock=3776627725041664",
+        "https://loremflickr.com/640/480/adventure?lock=8129499893858304",
+        "https://loremflickr.com/640/480/adventure?lock=172080922361856",
+        "https://loremflickr.com/640/480/adventure?lock=1655281872273408",
+        "https://loremflickr.com/640/480/adventure?lock=7674109987127296",
+        "https://loremflickr.com/640/480/adventure?lock=8201598194941952",
+        "https://loremflickr.com/640/480/adventure?lock=3556131165175808",
+        "https://loremflickr.com/640/480/adventure?lock=3573101809893376"
+      ],
+      "description": "Explore nature through hiking, conquer trails, and enjoy the beauty of Amsterdam's outdoors.",
+      "membershipFee": 40,
+      "discount": 50,
+      "meetingSchedule": "Every first Monday of the month",
+      "activities": [
+        "64f77183d8ee037384e86d73",
+        "64f77183d8ee037384e86d75",
+        "64f77184d8ee037384e86d77",
+        "64f77184d8ee037384e86d79",
+        "64f77184d8ee037384e86d7b",
+        "64f77184d8ee037384e86d7d"
+      ],
+      "createdAt": "2022-10-15T13:14:23.147Z",
+      "updatedAt": "2023-09-05T18:20:52.503Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 52.367347,
+          "longitude": 4.633672
+        },
+        "street": "789 Cheese Avenue",
+        "city": "Amsterdam",
+        "zip": "78901"
+      },
+      "_id": "64f7718cd8ee037384e86e57",
+      "name": "Amsterdam Hiking Group",
+      "category": ["adventure"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/adventure?lock=8581687501914112",
+        "https://loremflickr.com/640/480/adventure?lock=7430264175198208",
+        "https://loremflickr.com/640/480/adventure?lock=6973389210124288",
+        "https://loremflickr.com/640/480/adventure?lock=1133479123222528",
+        "https://loremflickr.com/640/480/adventure?lock=5279993691111424",
+        "https://loremflickr.com/640/480/adventure?lock=2346186029662208",
+        "https://loremflickr.com/640/480/adventure?lock=1946096221814784",
+        "https://loremflickr.com/640/480/adventure?lock=7663572171620352",
+        "https://loremflickr.com/640/480/adventure?lock=881141882028032",
+        "https://loremflickr.com/640/480/adventure?lock=796353592557568",
+        "https://loremflickr.com/640/480/adventure?lock=7482849676492800",
+        "https://loremflickr.com/640/480/adventure?lock=5326052012326912",
+        "https://loremflickr.com/640/480/adventure?lock=1602499398074368",
+        "https://loremflickr.com/640/480/adventure?lock=2475315674742784",
+        "https://loremflickr.com/640/480/adventure?lock=2408812197707776",
+        "https://loremflickr.com/640/480/adventure?lock=2424847101591552",
+        "https://loremflickr.com/640/480/adventure?lock=2132999749500928",
+        "https://loremflickr.com/640/480/adventure?lock=7725911709319168",
+        "https://loremflickr.com/640/480/adventure?lock=3857123001761792",
+        "https://loremflickr.com/640/480/adventure?lock=5131294463754240"
+      ],
+      "description": "Explore nature through hiking, conquer trails, and enjoy the beauty of Amsterdam's outdoors.",
+      "membershipFee": 90,
+      "discount": 20,
+      "meetingSchedule": "Weekdays (Monday to Friday)",
+      "activities": [
+        "64f7718cd8ee037384e86e59",
+        "64f7718cd8ee037384e86e5b",
+        "64f7718dd8ee037384e86e5d",
+        "64f7718dd8ee037384e86e5f",
+        "64f7718dd8ee037384e86e61",
+        "64f7718dd8ee037384e86e63"
+      ],
+      "createdAt": "2023-08-22T02:01:06.834Z",
+      "updatedAt": "2023-09-05T18:21:01.260Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 51.919012,
+          "longitude": 4.492345
+        },
+        "street": "456 Anchor Road",
+        "city": "Rotterdam",
+        "zip": "45678"
+      },
+      "_id": "64f77198d8ee037384e86f94",
+      "name": "Rotterdam Hiking Group",
+      "category": ["adventure"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/adventure?lock=8598557137305600",
+        "https://loremflickr.com/640/480/adventure?lock=1379001635438592",
+        "https://loremflickr.com/640/480/adventure?lock=8199777074282496",
+        "https://loremflickr.com/640/480/adventure?lock=7227868513828864",
+        "https://loremflickr.com/640/480/adventure?lock=2015711224397824",
+        "https://loremflickr.com/640/480/adventure?lock=379483085340672",
+        "https://loremflickr.com/640/480/adventure?lock=6555388350562304",
+        "https://loremflickr.com/640/480/adventure?lock=5063604917239808",
+        "https://loremflickr.com/640/480/adventure?lock=3085445244125184",
+        "https://loremflickr.com/640/480/adventure?lock=1893693862707200",
+        "https://loremflickr.com/640/480/adventure?lock=57132844056576",
+        "https://loremflickr.com/640/480/adventure?lock=250636299927552",
+        "https://loremflickr.com/640/480/adventure?lock=2636471307599872",
+        "https://loremflickr.com/640/480/adventure?lock=2237314703032320",
+        "https://loremflickr.com/640/480/adventure?lock=4171059590856704",
+        "https://loremflickr.com/640/480/adventure?lock=5942642626002944",
+        "https://loremflickr.com/640/480/adventure?lock=3806749054205952",
+        "https://loremflickr.com/640/480/adventure?lock=7376682287628288",
+        "https://loremflickr.com/640/480/adventure?lock=2248271906996224",
+        "https://loremflickr.com/640/480/adventure?lock=321329880367104"
+      ],
+      "description": "Embark on thrilling hiking adventures, conquer trails, and explore the great outdoors in Rotterdam.",
+      "membershipFee": 0,
+      "discount": 0,
+      "meetingSchedule": "Every first Monday of the month",
+      "activities": [
+        "64f77198d8ee037384e86f96",
+        "64f77198d8ee037384e86f98",
+        "64f77198d8ee037384e86f9a",
+        "64f77199d8ee037384e86f9c",
+        "64f77199d8ee037384e86f9e",
+        "64f77199d8ee037384e86fa0"
+      ],
+      "createdAt": "2023-05-26T01:32:58.667Z",
+      "updatedAt": "2023-09-05T18:21:13.278Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 50.856789,
+          "longitude": 5.678456
+        },
+        "street": "789 Square Avenue",
+        "city": "Maastricht",
+        "zip": "78901"
+      },
+      "_id": "64f7719cd8ee037384e87002",
+      "name": "Maastricht Hiking Group",
+      "category": ["adventure"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/adventure?lock=2799150678671360",
+        "https://loremflickr.com/640/480/adventure?lock=1624793554092032",
+        "https://loremflickr.com/640/480/adventure?lock=1951575058677760",
+        "https://loremflickr.com/640/480/adventure?lock=429104268574720",
+        "https://loremflickr.com/640/480/adventure?lock=7545088190185472",
+        "https://loremflickr.com/640/480/adventure?lock=3714827212029952",
+        "https://loremflickr.com/640/480/adventure?lock=4901604836769792",
+        "https://loremflickr.com/640/480/adventure?lock=8531100708110336",
+        "https://loremflickr.com/640/480/adventure?lock=2100260287545344",
+        "https://loremflickr.com/640/480/adventure?lock=3073800686010368",
+        "https://loremflickr.com/640/480/adventure?lock=3665392213950464",
+        "https://loremflickr.com/640/480/adventure?lock=3098371533307904",
+        "https://loremflickr.com/640/480/adventure?lock=8004255055085568",
+        "https://loremflickr.com/640/480/adventure?lock=3810898275729408",
+        "https://loremflickr.com/640/480/adventure?lock=6863739919794176",
+        "https://loremflickr.com/640/480/adventure?lock=256923140096000",
+        "https://loremflickr.com/640/480/adventure?lock=7714345100247040",
+        "https://loremflickr.com/640/480/adventure?lock=1898024370438144",
+        "https://loremflickr.com/640/480/adventure?lock=2960978301943808",
+        "https://loremflickr.com/640/480/adventure?lock=2175520651345920"
+      ],
+      "description": "Embark on thrilling hiking expeditions, conquer challenging trails, and enjoy nature's wonders in Maastricht.",
+      "membershipFee": 80,
+      "discount": 40,
+      "meetingSchedule": "Every Sunday",
+      "activities": [
+        "64f7719dd8ee037384e87004",
+        "64f7719dd8ee037384e87006",
+        "64f7719dd8ee037384e87008",
+        "64f7719dd8ee037384e8700a",
+        "64f7719dd8ee037384e8700c",
+        "64f7719dd8ee037384e8700e"
+      ],
+      "createdAt": "2023-01-18T11:31:39.668Z",
+      "updatedAt": "2023-09-05T18:21:17.562Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 50.866789,
+          "longitude": 5.651789
+        },
+        "street": "789 Square Avenue",
+        "city": "Maastricht",
+        "zip": "78901"
+      },
+      "_id": "64f771a5d8ee037384e870e8",
+      "name": "Maastricht Hiking Group 2",
+      "category": ["adventure"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/adventure?lock=1965380228612096",
+        "https://loremflickr.com/640/480/adventure?lock=1202496267616256",
+        "https://loremflickr.com/640/480/adventure?lock=863302703906816",
+        "https://loremflickr.com/640/480/adventure?lock=5459406638546944",
+        "https://loremflickr.com/640/480/adventure?lock=108469619261440",
+        "https://loremflickr.com/640/480/adventure?lock=7063790996684800",
+        "https://loremflickr.com/640/480/adventure?lock=669924672405504",
+        "https://loremflickr.com/640/480/adventure?lock=2576657867079680",
+        "https://loremflickr.com/640/480/adventure?lock=2257287091585024",
+        "https://loremflickr.com/640/480/adventure?lock=5055657763930112",
+        "https://loremflickr.com/640/480/adventure?lock=8521159687536640",
+        "https://loremflickr.com/640/480/adventure?lock=1857011373309952",
+        "https://loremflickr.com/640/480/adventure?lock=1569166605680640",
+        "https://loremflickr.com/640/480/adventure?lock=7889637083185152",
+        "https://loremflickr.com/640/480/adventure?lock=966873493536768",
+        "https://loremflickr.com/640/480/adventure?lock=4704964785995776",
+        "https://loremflickr.com/640/480/adventure?lock=3706841680838656",
+        "https://loremflickr.com/640/480/adventure?lock=8013546768039936",
+        "https://loremflickr.com/640/480/adventure?lock=4781685549826048",
+        "https://loremflickr.com/640/480/adventure?lock=8126888486633472"
+      ],
+      "description": "Embark on thrilling hiking expeditions, conquer challenging trails, and enjoy nature's wonders in Maastricht.",
+      "membershipFee": 60,
+      "discount": 20,
+      "meetingSchedule": "Every Wednesday",
+      "activities": [
+        "64f771a5d8ee037384e870ea",
+        "64f771a5d8ee037384e870ec",
+        "64f771a5d8ee037384e870ee",
+        "64f771a5d8ee037384e870f0",
+        "64f771a5d8ee037384e870f2",
+        "64f771a5d8ee037384e870f4"
+      ],
+      "createdAt": "2023-01-21T11:07:05.467Z",
+      "updatedAt": "2023-09-05T18:21:26.056Z",
+      "__v": 0
+    }
+  ],
+  [
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 52.365647,
+          "longitude": 4.684264
+        },
+        "street": "234 Flower Lane",
+        "city": "Amsterdam",
+        "zip": "23456"
+      },
+      "_id": "64f77185d8ee037384e86d9e",
+      "name": "Amsterdam Science Club",
+      "category": ["science"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/science?lock=6892085099626496",
+        "https://loremflickr.com/640/480/science?lock=8493515277336576",
+        "https://loremflickr.com/640/480/science?lock=1499511253893120",
+        "https://loremflickr.com/640/480/science?lock=4551900399665152",
+        "https://loremflickr.com/640/480/science?lock=7023640476385280",
+        "https://loremflickr.com/640/480/science?lock=4822965231288320",
+        "https://loremflickr.com/640/480/science?lock=4745576071561216",
+        "https://loremflickr.com/640/480/science?lock=8381807181430784",
+        "https://loremflickr.com/640/480/science?lock=7400858283147264",
+        "https://loremflickr.com/640/480/science?lock=1360256074514432",
+        "https://loremflickr.com/640/480/science?lock=193366874652672",
+        "https://loremflickr.com/640/480/science?lock=6709709499269120",
+        "https://loremflickr.com/640/480/science?lock=6159399481507840",
+        "https://loremflickr.com/640/480/science?lock=236075668733952",
+        "https://loremflickr.com/640/480/science?lock=4086440113733632",
+        "https://loremflickr.com/640/480/science?lock=2046266372521984",
+        "https://loremflickr.com/640/480/science?lock=7409533624254464",
+        "https://loremflickr.com/640/480/science?lock=75475676299264",
+        "https://loremflickr.com/640/480/science?lock=5661437298999296",
+        "https://loremflickr.com/640/480/science?lock=1237677844201472"
+      ],
+      "description": "Explore various scientific disciplines, conduct experiments, and discuss cutting-edge research.",
+      "membershipFee": 0,
+      "discount": 0,
+      "meetingSchedule": "Every last Friday of the month",
+      "activities": [
+        "64f77185d8ee037384e86da0",
+        "64f77185d8ee037384e86da2",
+        "64f77185d8ee037384e86da4",
+        "64f77185d8ee037384e86da6",
+        "64f77186d8ee037384e86da8",
+        "64f77186d8ee037384e86daa"
+      ],
+      "createdAt": "2023-08-21T16:54:37.898Z",
+      "updatedAt": "2023-09-05T18:20:54.147Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 52.367749,
+          "longitude": 4.622197
+        },
+        "street": "234 Flower Lane",
+        "city": "Amsterdam",
+        "zip": "23456"
+      },
+      "_id": "64f7718ed8ee037384e86e84",
+      "name": "Amsterdam Science Club",
+      "category": ["science"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/science?lock=2339127617912832",
+        "https://loremflickr.com/640/480/science?lock=4671199464390656",
+        "https://loremflickr.com/640/480/science?lock=5314095586738176",
+        "https://loremflickr.com/640/480/science?lock=2184437689221120",
+        "https://loremflickr.com/640/480/science?lock=1279296645627904",
+        "https://loremflickr.com/640/480/science?lock=2661120139591680",
+        "https://loremflickr.com/640/480/science?lock=5551621018746880",
+        "https://loremflickr.com/640/480/science?lock=3132563012976640",
+        "https://loremflickr.com/640/480/science?lock=2319361725431808",
+        "https://loremflickr.com/640/480/science?lock=7132954513899520",
+        "https://loremflickr.com/640/480/science?lock=6718154220765184",
+        "https://loremflickr.com/640/480/science?lock=4563308575195136",
+        "https://loremflickr.com/640/480/science?lock=3911386109313024",
+        "https://loremflickr.com/640/480/science?lock=6100663616405504",
+        "https://loremflickr.com/640/480/science?lock=8815518131683328",
+        "https://loremflickr.com/640/480/science?lock=3987790037516288",
+        "https://loremflickr.com/640/480/science?lock=3556595975847936",
+        "https://loremflickr.com/640/480/science?lock=2409507877552128",
+        "https://loremflickr.com/640/480/science?lock=8166691997483008",
+        "https://loremflickr.com/640/480/science?lock=3818116800839680"
+      ],
+      "description": "Explore various scientific disciplines, conduct experiments, and discuss cutting-edge research.",
+      "membershipFee": 30,
+      "discount": 50,
+      "meetingSchedule": "Every last Friday of the month",
+      "activities": [
+        "64f7718ed8ee037384e86e86",
+        "64f7718ed8ee037384e86e88",
+        "64f7718ed8ee037384e86e8a",
+        "64f7718ed8ee037384e86e8c",
+        "64f7718ed8ee037384e86e8e",
+        "64f7718ed8ee037384e86e90"
+      ],
+      "createdAt": "2023-06-30T05:47:51.599Z",
+      "updatedAt": "2023-09-05T18:21:02.939Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 51.909012,
+          "longitude": 4.485678
+        },
+        "street": "234 Harbor Lane",
+        "city": "Rotterdam",
+        "zip": "23456"
+      },
+      "_id": "64f77197d8ee037384e86f76",
+      "name": "Rotterdam Science Club",
+      "category": ["science"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/science?lock=3538041293504512",
+        "https://loremflickr.com/640/480/science?lock=8885639015563264",
+        "https://loremflickr.com/640/480/science?lock=7212522664886272",
+        "https://loremflickr.com/640/480/science?lock=1653425517363200",
+        "https://loremflickr.com/640/480/science?lock=3337033850290176",
+        "https://loremflickr.com/640/480/science?lock=2290359778410496",
+        "https://loremflickr.com/640/480/science?lock=1285352683732992",
+        "https://loremflickr.com/640/480/science?lock=3430279681146880",
+        "https://loremflickr.com/640/480/science?lock=3706520351014912",
+        "https://loremflickr.com/640/480/science?lock=3283690945773568",
+        "https://loremflickr.com/640/480/science?lock=3826516804763648",
+        "https://loremflickr.com/640/480/science?lock=4623607766450176",
+        "https://loremflickr.com/640/480/science?lock=3134294268575744",
+        "https://loremflickr.com/640/480/science?lock=7543414912450560",
+        "https://loremflickr.com/640/480/science?lock=3738589680631808",
+        "https://loremflickr.com/640/480/science?lock=288661285371904",
+        "https://loremflickr.com/640/480/science?lock=855587663380480",
+        "https://loremflickr.com/640/480/science?lock=7961527921410048",
+        "https://loremflickr.com/640/480/science?lock=805817437650944",
+        "https://loremflickr.com/640/480/science?lock=3436355084353536"
+      ],
+      "description": "Explore the realms of science, conduct experiments, and engage in scientific discussions in Rotterdam.",
+      "membershipFee": 0,
+      "discount": 0,
+      "meetingSchedule": "Weekdays (Monday to Friday)",
+      "activities": [
+        "64f77197d8ee037384e86f78",
+        "64f77197d8ee037384e86f7a",
+        "64f77197d8ee037384e86f7c",
+        "64f77197d8ee037384e86f7e",
+        "64f77198d8ee037384e86f80",
+        "64f77198d8ee037384e86f82"
+      ],
+      "createdAt": "2022-12-27T16:18:31.518Z",
+      "updatedAt": "2023-09-05T18:21:12.143Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 50.860123,
+          "longitude": 5.673456
+        },
+        "street": "234 Laboratory Lane",
+        "city": "Maastricht",
+        "zip": "23456"
+      },
+      "_id": "64f7719ed8ee037384e8702f",
+      "name": "Maastricht Science Club",
+      "category": ["science"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/science?lock=7652624318857216",
+        "https://loremflickr.com/640/480/science?lock=7925002294788096",
+        "https://loremflickr.com/640/480/science?lock=8231300381016064",
+        "https://loremflickr.com/640/480/science?lock=4219473873600512",
+        "https://loremflickr.com/640/480/science?lock=4672530797297664",
+        "https://loremflickr.com/640/480/science?lock=3200439361208320",
+        "https://loremflickr.com/640/480/science?lock=2556957684662272",
+        "https://loremflickr.com/640/480/science?lock=2894768612835328",
+        "https://loremflickr.com/640/480/science?lock=3879719514669056",
+        "https://loremflickr.com/640/480/science?lock=1171704468471808",
+        "https://loremflickr.com/640/480/science?lock=857511351549952",
+        "https://loremflickr.com/640/480/science?lock=630942077026304",
+        "https://loremflickr.com/640/480/science?lock=7417069412810752",
+        "https://loremflickr.com/640/480/science?lock=1111463219429376",
+        "https://loremflickr.com/640/480/science?lock=2575056001564672",
+        "https://loremflickr.com/640/480/science?lock=7786801318068224",
+        "https://loremflickr.com/640/480/science?lock=1704365844856832",
+        "https://loremflickr.com/640/480/science?lock=3401897023111168",
+        "https://loremflickr.com/640/480/science?lock=2169298323767296",
+        "https://loremflickr.com/640/480/science?lock=7937628680749056"
+      ],
+      "description": "Explore the fascinating world of science, conduct experiments, and discuss cutting-edge research in Maastricht.",
+      "membershipFee": 0,
+      "discount": 0,
+      "meetingSchedule": "Every Wednesday",
+      "activities": [
+        "64f7719ed8ee037384e87031",
+        "64f7719ed8ee037384e87033",
+        "64f7719fd8ee037384e87035",
+        "64f7719fd8ee037384e87037",
+        "64f7719fd8ee037384e87039",
+        "64f7719fd8ee037384e8703b"
+      ],
+      "createdAt": "2023-04-28T11:45:49.553Z",
+      "updatedAt": "2023-09-05T18:21:19.290Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 50.870123,
+          "longitude": 5.646789
+        },
+        "street": "234 Laboratory Lane",
+        "city": "Maastricht",
+        "zip": "23456"
+      },
+      "_id": "64f771a7d8ee037384e87115",
+      "name": "Maastricht Science Club 2",
+      "category": ["science"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/science?lock=6384157494083584",
+        "https://loremflickr.com/640/480/science?lock=4784208306241536",
+        "https://loremflickr.com/640/480/science?lock=5198666488872960",
+        "https://loremflickr.com/640/480/science?lock=2967288869289984",
+        "https://loremflickr.com/640/480/science?lock=7863325174005760",
+        "https://loremflickr.com/640/480/science?lock=3379348771962880",
+        "https://loremflickr.com/640/480/science?lock=1512542824300544",
+        "https://loremflickr.com/640/480/science?lock=6472243997573120",
+        "https://loremflickr.com/640/480/science?lock=5448307734216704",
+        "https://loremflickr.com/640/480/science?lock=7035787608588288",
+        "https://loremflickr.com/640/480/science?lock=2963193768968192",
+        "https://loremflickr.com/640/480/science?lock=3733676504383488",
+        "https://loremflickr.com/640/480/science?lock=568162726707200",
+        "https://loremflickr.com/640/480/science?lock=6536248818663424",
+        "https://loremflickr.com/640/480/science?lock=8613773906542592",
+        "https://loremflickr.com/640/480/science?lock=3429384444706816",
+        "https://loremflickr.com/640/480/science?lock=7797173095759872",
+        "https://loremflickr.com/640/480/science?lock=1245384166866944",
+        "https://loremflickr.com/640/480/science?lock=6974665008349184",
+        "https://loremflickr.com/640/480/science?lock=1518986086842368"
+      ],
+      "description": "Explore the fascinating world of science, conduct experiments, and discuss cutting-edge research in Maastricht.",
+      "membershipFee": 100,
+      "discount": 50,
+      "meetingSchedule": "Every Wednesday",
+      "activities": [
+        "64f771a7d8ee037384e87117",
+        "64f771a7d8ee037384e87119",
+        "64f771a7d8ee037384e8711b",
+        "64f771a7d8ee037384e8711d",
+        "64f771a7d8ee037384e8711f",
+        "64f771a7d8ee037384e87121"
+      ],
+      "createdAt": "2023-06-03T02:48:04.609Z",
+      "updatedAt": "2023-09-05T18:21:27.618Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 52.381901,
+          "longitude": 4.607345
+        },
+        "street": "234 Laboratory Lane",
+        "city": "Amsterdam",
+        "zip": "23456"
+      },
+      "_id": "64f771b0d8ee037384e87205",
+      "name": "Amsterdam Science Club 2",
+      "category": ["science"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/science?lock=4356793266339840",
+        "https://loremflickr.com/640/480/science?lock=8857395581157376",
+        "https://loremflickr.com/640/480/science?lock=1823184642899968",
+        "https://loremflickr.com/640/480/science?lock=968678485000192",
+        "https://loremflickr.com/640/480/science?lock=843408998400000",
+        "https://loremflickr.com/640/480/science?lock=1971191222894592",
+        "https://loremflickr.com/640/480/science?lock=5761925166137344",
+        "https://loremflickr.com/640/480/science?lock=1729705986228224",
+        "https://loremflickr.com/640/480/science?lock=8453519667363840",
+        "https://loremflickr.com/640/480/science?lock=2002132953726976",
+        "https://loremflickr.com/640/480/science?lock=8587057576280064",
+        "https://loremflickr.com/640/480/science?lock=2178747040006144",
+        "https://loremflickr.com/640/480/science?lock=7110239237177344",
+        "https://loremflickr.com/640/480/science?lock=1152823739809792",
+        "https://loremflickr.com/640/480/science?lock=8710119252557824",
+        "https://loremflickr.com/640/480/science?lock=636926702911488",
+        "https://loremflickr.com/640/480/science?lock=4210089592356864",
+        "https://loremflickr.com/640/480/science?lock=8633162500407296",
+        "https://loremflickr.com/640/480/science?lock=2787360840351744",
+        "https://loremflickr.com/640/480/science?lock=5929970245304320"
+      ],
+      "description": "Explore the fascinating world of science, conduct experiments, and discuss cutting-edge research in Amsterdam.",
+      "membershipFee": 0,
+      "discount": 0,
+      "meetingSchedule": "Bi-weekly (Every two weeks)",
+      "activities": [
+        "64f771b0d8ee037384e87207",
+        "64f771b0d8ee037384e87209",
+        "64f771b0d8ee037384e8720b",
+        "64f771b0d8ee037384e8720d",
+        "64f771b0d8ee037384e8720f",
+        "64f771b0d8ee037384e87211"
+      ],
+      "createdAt": "2023-06-27T22:51:25.404Z",
+      "updatedAt": "2023-09-05T18:21:36.538Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 51.927901,
+          "longitude": 4.469567
+        },
+        "street": "234 Laboratory Lane",
+        "city": "Rotterdam",
+        "zip": "23456"
+      },
+      "_id": "64f771b8d8ee037384e872e6",
+      "name": "Rotterdam Science Club 2",
+      "category": ["science"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/science?lock=5641828143464448",
+        "https://loremflickr.com/640/480/science?lock=2225644542885888",
+        "https://loremflickr.com/640/480/science?lock=8156174861991936",
+        "https://loremflickr.com/640/480/science?lock=6047518666260480",
+        "https://loremflickr.com/640/480/science?lock=3599448852660224",
+        "https://loremflickr.com/640/480/science?lock=664116760936448",
+        "https://loremflickr.com/640/480/science?lock=5642778732134400",
+        "https://loremflickr.com/640/480/science?lock=7890785869496320",
+        "https://loremflickr.com/640/480/science?lock=8557981243277312",
+        "https://loremflickr.com/640/480/science?lock=8250470504071168",
+        "https://loremflickr.com/640/480/science?lock=6988128061489152",
+        "https://loremflickr.com/640/480/science?lock=4966816310886400",
+        "https://loremflickr.com/640/480/science?lock=215419061272576",
+        "https://loremflickr.com/640/480/science?lock=4705343139479552",
+        "https://loremflickr.com/640/480/science?lock=6181085578788864",
+        "https://loremflickr.com/640/480/science?lock=6358195280805888",
+        "https://loremflickr.com/640/480/science?lock=908332535644160",
+        "https://loremflickr.com/640/480/science?lock=2799592445837312",
+        "https://loremflickr.com/640/480/science?lock=766074832289792",
+        "https://loremflickr.com/640/480/science?lock=1433541118263296"
+      ],
+      "description": "Explore the fascinating world of science, conduct experiments, and discuss cutting-edge research in Rotterdam.",
+      "membershipFee": 90,
+      "discount": 40,
+      "meetingSchedule": "Every Wednesday",
+      "activities": [
+        "64f771b8d8ee037384e872e8",
+        "64f771b8d8ee037384e872ea",
+        "64f771b8d8ee037384e872ec",
+        "64f771b8d8ee037384e872ee",
+        "64f771b8d8ee037384e872f0",
+        "64f771b8d8ee037384e872f2"
+      ],
+      "createdAt": "2023-06-01T14:31:43.961Z",
+      "updatedAt": "2023-09-05T18:21:44.637Z",
+      "__v": 0
+    }
+  ],
+  [
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 52.366034,
+          "longitude": 4.672469
+        },
+        "street": "567 Canal Street",
+        "city": "Amsterdam",
+        "zip": "56789"
+      },
+      "_id": "64f77187d8ee037384e86dcb",
+      "name": "Amsterdam Nature Explorers",
+      "category": ["nature"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/nature?lock=3585112979537920",
+        "https://loremflickr.com/640/480/nature?lock=859176303591424",
+        "https://loremflickr.com/640/480/nature?lock=8863339234983936",
+        "https://loremflickr.com/640/480/nature?lock=3767925383102464",
+        "https://loremflickr.com/640/480/nature?lock=4445108934017024",
+        "https://loremflickr.com/640/480/nature?lock=5303262259445760",
+        "https://loremflickr.com/640/480/nature?lock=6077229364674560",
+        "https://loremflickr.com/640/480/nature?lock=4831556944265216",
+        "https://loremflickr.com/640/480/nature?lock=6573458659999744",
+        "https://loremflickr.com/640/480/nature?lock=2985737471393792",
+        "https://loremflickr.com/640/480/nature?lock=1687684227530752",
+        "https://loremflickr.com/640/480/nature?lock=2025422116093952",
+        "https://loremflickr.com/640/480/nature?lock=7148558077657088",
+        "https://loremflickr.com/640/480/nature?lock=7419843955392512",
+        "https://loremflickr.com/640/480/nature?lock=6223957640347648",
+        "https://loremflickr.com/640/480/nature?lock=4294771279396864",
+        "https://loremflickr.com/640/480/nature?lock=6176735380897792",
+        "https://loremflickr.com/640/480/nature?lock=3389245767024640",
+        "https://loremflickr.com/640/480/nature?lock=5545893923127296",
+        "https://loremflickr.com/640/480/nature?lock=5602005768732672"
+      ],
+      "description": "Discover the beauty of nature, hike in scenic spots, and learn about Amsterdam's flora and fauna.",
+      "membershipFee": 0,
+      "discount": 0,
+      "meetingSchedule": "Every first Monday of the month",
+      "activities": [
+        "64f77187d8ee037384e86dcd",
+        "64f77187d8ee037384e86dcf",
+        "64f77187d8ee037384e86dd1",
+        "64f77187d8ee037384e86dd3",
+        "64f77187d8ee037384e86dd5",
+        "64f77187d8ee037384e86dd7"
+      ],
+      "createdAt": "2022-11-21T17:05:26.777Z",
+      "updatedAt": "2023-09-05T18:20:55.968Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 52.368143,
+          "longitude": 4.610844
+        },
+        "street": "567 Canal Street",
+        "city": "Amsterdam",
+        "zip": "56789"
+      },
+      "_id": "64f77190d8ee037384e86eb1",
+      "name": "Amsterdam Nature Explorers",
+      "category": ["nature"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/nature?lock=7686960665591808",
+        "https://loremflickr.com/640/480/nature?lock=4065842408980480",
+        "https://loremflickr.com/640/480/nature?lock=5953814880321536",
+        "https://loremflickr.com/640/480/nature?lock=5080039817216000",
+        "https://loremflickr.com/640/480/nature?lock=6492480570654720",
+        "https://loremflickr.com/640/480/nature?lock=4661994340745216",
+        "https://loremflickr.com/640/480/nature?lock=2915340935757824",
+        "https://loremflickr.com/640/480/nature?lock=7815863725981696",
+        "https://loremflickr.com/640/480/nature?lock=332940305235968",
+        "https://loremflickr.com/640/480/nature?lock=2579547945959424",
+        "https://loremflickr.com/640/480/nature?lock=222522115096576",
+        "https://loremflickr.com/640/480/nature?lock=20996817944576",
+        "https://loremflickr.com/640/480/nature?lock=1714800511942656",
+        "https://loremflickr.com/640/480/nature?lock=8007085495156736",
+        "https://loremflickr.com/640/480/nature?lock=8155080870068224",
+        "https://loremflickr.com/640/480/nature?lock=4137947194458112",
+        "https://loremflickr.com/640/480/nature?lock=2874283984420864",
+        "https://loremflickr.com/640/480/nature?lock=2611298122596352",
+        "https://loremflickr.com/640/480/nature?lock=4561858415558656",
+        "https://loremflickr.com/640/480/nature?lock=4995074695888896"
+      ],
+      "description": "Discover the beauty of nature, hike in scenic spots, and learn about Amsterdam's flora and fauna.",
+      "membershipFee": 50,
+      "discount": 50,
+      "meetingSchedule": "Every Sunday",
+      "activities": [
+        "64f77190d8ee037384e86eb3",
+        "64f77190d8ee037384e86eb5",
+        "64f77190d8ee037384e86eb7",
+        "64f77190d8ee037384e86eb9",
+        "64f77190d8ee037384e86ebb",
+        "64f77190d8ee037384e86ebd"
+      ],
+      "createdAt": "2023-08-22T23:07:27.708Z",
+      "updatedAt": "2023-09-05T18:21:04.731Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 51.925678,
+          "longitude": 4.495678
+        },
+        "street": "890 Port Road",
+        "city": "Rotterdam",
+        "zip": "89012"
+      },
+      "_id": "64f77196d8ee037384e86f58",
+      "name": "Rotterdam Nature Explorers",
+      "category": ["nature"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/nature?lock=194201610354688",
+        "https://loremflickr.com/640/480/nature?lock=5868719699918848",
+        "https://loremflickr.com/640/480/nature?lock=573926491029504",
+        "https://loremflickr.com/640/480/nature?lock=5121775914450944",
+        "https://loremflickr.com/640/480/nature?lock=3127247577808896",
+        "https://loremflickr.com/640/480/nature?lock=5805603828006912",
+        "https://loremflickr.com/640/480/nature?lock=3899118451687424",
+        "https://loremflickr.com/640/480/nature?lock=8513651203899392",
+        "https://loremflickr.com/640/480/nature?lock=3743312290775040",
+        "https://loremflickr.com/640/480/nature?lock=7323188801306624",
+        "https://loremflickr.com/640/480/nature?lock=2730066807095296",
+        "https://loremflickr.com/640/480/nature?lock=6593032612741120",
+        "https://loremflickr.com/640/480/nature?lock=2939243900960768",
+        "https://loremflickr.com/640/480/nature?lock=5333786088701952",
+        "https://loremflickr.com/640/480/nature?lock=904252088123392",
+        "https://loremflickr.com/640/480/nature?lock=2520457922215936",
+        "https://loremflickr.com/640/480/nature?lock=2733116416327680",
+        "https://loremflickr.com/640/480/nature?lock=4529314242494464",
+        "https://loremflickr.com/640/480/nature?lock=4163965401694208",
+        "https://loremflickr.com/640/480/nature?lock=3616331228250112"
+      ],
+      "description": "Embark on nature expeditions, explore trails, and admire Rotterdam's natural beauty with fellow enthusiasts.",
+      "membershipFee": 0,
+      "discount": 0,
+      "meetingSchedule": "Every last Friday of the month",
+      "activities": [
+        "64f77196d8ee037384e86f5a",
+        "64f77196d8ee037384e86f5c",
+        "64f77196d8ee037384e86f5e",
+        "64f77196d8ee037384e86f60",
+        "64f77196d8ee037384e86f62",
+        "64f77196d8ee037384e86f64"
+      ],
+      "createdAt": "2022-10-11T06:12:08.975Z",
+      "updatedAt": "2023-09-05T18:21:11.062Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 50.863456,
+          "longitude": 5.668456
+        },
+        "street": "567 Wilderness Street",
+        "city": "Maastricht",
+        "zip": "56789"
+      },
+      "_id": "64f771a0d8ee037384e8705c",
+      "name": "Maastricht Nature Explorers",
+      "category": ["nature"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/nature?lock=1474045384065024",
+        "https://loremflickr.com/640/480/nature?lock=103345480007680",
+        "https://loremflickr.com/640/480/nature?lock=5017901971013632",
+        "https://loremflickr.com/640/480/nature?lock=6050790590382080",
+        "https://loremflickr.com/640/480/nature?lock=7347447007281152",
+        "https://loremflickr.com/640/480/nature?lock=6730985769009152",
+        "https://loremflickr.com/640/480/nature?lock=4778759341211648",
+        "https://loremflickr.com/640/480/nature?lock=882429227171840",
+        "https://loremflickr.com/640/480/nature?lock=3643643885780992",
+        "https://loremflickr.com/640/480/nature?lock=8119353580978176",
+        "https://loremflickr.com/640/480/nature?lock=8176194660859904",
+        "https://loremflickr.com/640/480/nature?lock=3005648207872000",
+        "https://loremflickr.com/640/480/nature?lock=3518266844643328",
+        "https://loremflickr.com/640/480/nature?lock=1212442166165504",
+        "https://loremflickr.com/640/480/nature?lock=8548102933839872",
+        "https://loremflickr.com/640/480/nature?lock=3612019299188736",
+        "https://loremflickr.com/640/480/nature?lock=7006087033126912",
+        "https://loremflickr.com/640/480/nature?lock=7203664288546816",
+        "https://loremflickr.com/640/480/nature?lock=5741814170517504",
+        "https://loremflickr.com/640/480/nature?lock=6499366770573312"
+      ],
+      "description": "Discover the beauty of Maastricht's natural landscapes, hike in scenic areas, and learn about local flora and fauna.",
+      "membershipFee": 0,
+      "discount": 0,
+      "meetingSchedule": "Every day",
+      "activities": [
+        "64f771a0d8ee037384e8705e",
+        "64f771a0d8ee037384e87060",
+        "64f771a0d8ee037384e87062",
+        "64f771a0d8ee037384e87064",
+        "64f771a0d8ee037384e87066",
+        "64f771a1d8ee037384e87068"
+      ],
+      "createdAt": "2023-04-01T11:45:41.385Z",
+      "updatedAt": "2023-09-05T18:21:21.068Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 50.873456,
+          "longitude": 5.641789
+        },
+        "street": "567 Wilderness Street",
+        "city": "Maastricht",
+        "zip": "56789"
+      },
+      "_id": "64f771a8d8ee037384e87142",
+      "name": "Maastricht Nature Explorers 2",
+      "category": ["nature"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/nature?lock=8118080064454656",
+        "https://loremflickr.com/640/480/nature?lock=2653793277706240",
+        "https://loremflickr.com/640/480/nature?lock=5945075223756800",
+        "https://loremflickr.com/640/480/nature?lock=8625230215905280",
+        "https://loremflickr.com/640/480/nature?lock=6941022294638592",
+        "https://loremflickr.com/640/480/nature?lock=5785932949094400",
+        "https://loremflickr.com/640/480/nature?lock=8286170807009280",
+        "https://loremflickr.com/640/480/nature?lock=8801286749159424",
+        "https://loremflickr.com/640/480/nature?lock=8908279562371072",
+        "https://loremflickr.com/640/480/nature?lock=1319066688028672",
+        "https://loremflickr.com/640/480/nature?lock=3501238140272640",
+        "https://loremflickr.com/640/480/nature?lock=8869302404907008",
+        "https://loremflickr.com/640/480/nature?lock=7864469633892352",
+        "https://loremflickr.com/640/480/nature?lock=7548836601921536",
+        "https://loremflickr.com/640/480/nature?lock=24044573294592",
+        "https://loremflickr.com/640/480/nature?lock=1247243019485184",
+        "https://loremflickr.com/640/480/nature?lock=95202670804992",
+        "https://loremflickr.com/640/480/nature?lock=329269955788800",
+        "https://loremflickr.com/640/480/nature?lock=8534631154450432",
+        "https://loremflickr.com/640/480/nature?lock=6662622957010944"
+      ],
+      "description": "Discover the beauty of Maastricht's natural landscapes, hike in scenic areas, and learn about local flora and fauna.",
+      "membershipFee": 20,
+      "discount": 30,
+      "meetingSchedule": "Once a month",
+      "activities": [
+        "64f771a8d8ee037384e87144",
+        "64f771a8d8ee037384e87146",
+        "64f771a8d8ee037384e87148",
+        "64f771a9d8ee037384e8714a",
+        "64f771a9d8ee037384e8714c",
+        "64f771a9d8ee037384e8714e"
+      ],
+      "createdAt": "2022-09-17T19:05:26.459Z",
+      "updatedAt": "2023-09-05T18:21:29.286Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 52.383901,
+          "longitude": 4.604012
+        },
+        "street": "456 Wilderness Street",
+        "city": "Amsterdam",
+        "zip": "45678"
+      },
+      "_id": "64f771b1d8ee037384e87223",
+      "name": "Amsterdam Nature Explorers 2",
+      "category": ["nature"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/nature?lock=953852505358336",
+        "https://loremflickr.com/640/480/nature?lock=3809688300814336",
+        "https://loremflickr.com/640/480/nature?lock=1193125810798592",
+        "https://loremflickr.com/640/480/nature?lock=7490037679652864",
+        "https://loremflickr.com/640/480/nature?lock=7760695932223488",
+        "https://loremflickr.com/640/480/nature?lock=6970962985615360",
+        "https://loremflickr.com/640/480/nature?lock=2592558890876928",
+        "https://loremflickr.com/640/480/nature?lock=1640266165387264",
+        "https://loremflickr.com/640/480/nature?lock=2975658156228608",
+        "https://loremflickr.com/640/480/nature?lock=562179589799936",
+        "https://loremflickr.com/640/480/nature?lock=3157933875527680",
+        "https://loremflickr.com/640/480/nature?lock=3367589201838080",
+        "https://loremflickr.com/640/480/nature?lock=52275129090048",
+        "https://loremflickr.com/640/480/nature?lock=6398536245575680",
+        "https://loremflickr.com/640/480/nature?lock=860915767443456",
+        "https://loremflickr.com/640/480/nature?lock=1020446317215744",
+        "https://loremflickr.com/640/480/nature?lock=5400985683886080",
+        "https://loremflickr.com/640/480/nature?lock=6924969632071680",
+        "https://loremflickr.com/640/480/nature?lock=689216140869632",
+        "https://loremflickr.com/640/480/nature?lock=2255278330347520"
+      ],
+      "description": "Discover the beauty of Amsterdam's natural landscapes, hike in scenic areas, and learn about local flora and fauna.",
+      "membershipFee": 60,
+      "discount": 20,
+      "meetingSchedule": "Every Friday",
+      "activities": [
+        "64f771b1d8ee037384e87225",
+        "64f771b1d8ee037384e87227",
+        "64f771b1d8ee037384e87229",
+        "64f771b1d8ee037384e8722b",
+        "64f771b1d8ee037384e8722d",
+        "64f771b1d8ee037384e8722f"
+      ],
+      "createdAt": "2023-01-08T01:46:50.081Z",
+      "updatedAt": "2023-09-05T18:21:37.532Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 51.929901,
+          "longitude": 4.466234
+        },
+        "street": "456 Wilderness Street",
+        "city": "Rotterdam",
+        "zip": "45678"
+      },
+      "_id": "64f771b9d8ee037384e87304",
+      "name": "Rotterdam Nature Explorers 2",
+      "category": ["nature"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/nature?lock=2978812461580288",
+        "https://loremflickr.com/640/480/nature?lock=4396084893843456",
+        "https://loremflickr.com/640/480/nature?lock=1568989457154048",
+        "https://loremflickr.com/640/480/nature?lock=3908896771014656",
+        "https://loremflickr.com/640/480/nature?lock=5638491006304256",
+        "https://loremflickr.com/640/480/nature?lock=7793504596000768",
+        "https://loremflickr.com/640/480/nature?lock=1450434413723648",
+        "https://loremflickr.com/640/480/nature?lock=186454741352448",
+        "https://loremflickr.com/640/480/nature?lock=6273478403555328",
+        "https://loremflickr.com/640/480/nature?lock=8611269103845376",
+        "https://loremflickr.com/640/480/nature?lock=3777429134901248",
+        "https://loremflickr.com/640/480/nature?lock=3238379061772288",
+        "https://loremflickr.com/640/480/nature?lock=4939624495448064",
+        "https://loremflickr.com/640/480/nature?lock=5691603886800896",
+        "https://loremflickr.com/640/480/nature?lock=5088693811412992",
+        "https://loremflickr.com/640/480/nature?lock=8453039761391616",
+        "https://loremflickr.com/640/480/nature?lock=8446012790145024",
+        "https://loremflickr.com/640/480/nature?lock=2054224307290112",
+        "https://loremflickr.com/640/480/nature?lock=3513628676325376",
+        "https://loremflickr.com/640/480/nature?lock=1337184164511744"
+      ],
+      "description": "Discover the beauty of Rotterdam's natural landscapes, hike in scenic areas, and learn about local flora and fauna.",
+      "membershipFee": 0,
+      "discount": 0,
+      "meetingSchedule": "Every business day (Monday to Friday)",
+      "activities": [
+        "64f771b9d8ee037384e87306",
+        "64f771b9d8ee037384e87308",
+        "64f771b9d8ee037384e8730a",
+        "64f771b9d8ee037384e8730c",
+        "64f771b9d8ee037384e8730e",
+        "64f771b9d8ee037384e87310"
+      ],
+      "createdAt": "2022-09-21T22:17:53.318Z",
+      "updatedAt": "2023-09-05T18:21:45.640Z",
+      "__v": 0
+    }
+  ],
+  [
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 52.374567,
+          "longitude": 4.619012
+        },
+        "street": "345 Melody Avenue",
+        "city": "Amsterdam",
+        "zip": "34567"
+      },
+      "_id": "64f771acd8ee037384e8719c",
+      "name": "Amsterdam Music Lovers 2",
+      "category": ["music"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/music?lock=8046502981140480",
+        "https://loremflickr.com/640/480/music?lock=597365748662272",
+        "https://loremflickr.com/640/480/music?lock=2731332060839936",
+        "https://loremflickr.com/640/480/music?lock=5785578452811776",
+        "https://loremflickr.com/640/480/music?lock=6776245303902208",
+        "https://loremflickr.com/640/480/music?lock=7943218475827200",
+        "https://loremflickr.com/640/480/music?lock=3826300957491200",
+        "https://loremflickr.com/640/480/music?lock=3696115840974848",
+        "https://loremflickr.com/640/480/music?lock=52407595696128",
+        "https://loremflickr.com/640/480/music?lock=2595083438260224",
+        "https://loremflickr.com/640/480/music?lock=8764131280683008",
+        "https://loremflickr.com/640/480/music?lock=4854606955806720",
+        "https://loremflickr.com/640/480/music?lock=4647654025854976",
+        "https://loremflickr.com/640/480/music?lock=3853341276766208",
+        "https://loremflickr.com/640/480/music?lock=2056290742304768",
+        "https://loremflickr.com/640/480/music?lock=8890766520745984",
+        "https://loremflickr.com/640/480/music?lock=5983446547562496",
+        "https://loremflickr.com/640/480/music?lock=3299869426974720",
+        "https://loremflickr.com/640/480/music?lock=6856566728818688",
+        "https://loremflickr.com/640/480/music?lock=3974881446199296"
+      ],
+      "description": "Appreciate music, attend concerts, and connect with fellow music enthusiasts in Amsterdam.",
+      "membershipFee": 0,
+      "discount": 0,
+      "meetingSchedule": "Bi-weekly (Every two weeks)",
+      "activities": [
+        "64f771acd8ee037384e8719e",
+        "64f771acd8ee037384e871a0",
+        "64f771acd8ee037384e871a2",
+        "64f771acd8ee037384e871a4",
+        "64f771acd8ee037384e871a6",
+        "64f771acd8ee037384e871a8"
+      ],
+      "createdAt": "2023-02-10T06:42:39.528Z",
+      "updatedAt": "2023-09-05T18:21:32.821Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 51.920901,
+          "longitude": 4.481234
+        },
+        "street": "345 Melody Avenue",
+        "city": "Rotterdam",
+        "zip": "34567"
+      },
+      "_id": "64f771b4d8ee037384e8727d",
+      "name": "Rotterdam Music Lovers 2",
+      "category": ["music"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/music?lock=3856680613838848",
+        "https://loremflickr.com/640/480/music?lock=5657152087654400",
+        "https://loremflickr.com/640/480/music?lock=2753264854499328",
+        "https://loremflickr.com/640/480/music?lock=4105123752050688",
+        "https://loremflickr.com/640/480/music?lock=5772194426650624",
+        "https://loremflickr.com/640/480/music?lock=3877529414795264",
+        "https://loremflickr.com/640/480/music?lock=2720337437392896",
+        "https://loremflickr.com/640/480/music?lock=6424037091704832",
+        "https://loremflickr.com/640/480/music?lock=3300329921708032",
+        "https://loremflickr.com/640/480/music?lock=7247592280817664",
+        "https://loremflickr.com/640/480/music?lock=2481646573977600",
+        "https://loremflickr.com/640/480/music?lock=2937552696770560",
+        "https://loremflickr.com/640/480/music?lock=5306136945229824",
+        "https://loremflickr.com/640/480/music?lock=1906992668999680",
+        "https://loremflickr.com/640/480/music?lock=2189930098851840",
+        "https://loremflickr.com/640/480/music?lock=8883055911501824",
+        "https://loremflickr.com/640/480/music?lock=2204349616881664",
+        "https://loremflickr.com/640/480/music?lock=2696250256261120",
+        "https://loremflickr.com/640/480/music?lock=3157600015220736",
+        "https://loremflickr.com/640/480/music?lock=5024883408896000"
+      ],
+      "description": "Appreciate music, attend concerts, and connect with fellow music enthusiasts in Rotterdam.",
+      "membershipFee": 0,
+      "discount": 0,
+      "meetingSchedule": "Every Thursday",
+      "activities": [
+        "64f771b4d8ee037384e8727f",
+        "64f771b4d8ee037384e87281",
+        "64f771b4d8ee037384e87283",
+        "64f771b4d8ee037384e87285",
+        "64f771b4d8ee037384e87287",
+        "64f771b4d8ee037384e87289"
+      ],
+      "createdAt": "2023-09-03T02:23:25.221Z",
+      "updatedAt": "2023-09-05T18:21:40.894Z",
+      "__v": 0
+    }
+  ],
+  [
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 52.375678,
+          "longitude": 4.617345
+        },
+        "street": "456 Shutter Road",
+        "city": "Amsterdam",
+        "zip": "45678"
+      },
+      "_id": "64f771acd8ee037384e871ab",
+      "name": "Amsterdam Photography Club 2",
+      "category": ["photography"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/photography?lock=4224281074466816",
+        "https://loremflickr.com/640/480/photography?lock=5956330141515776",
+        "https://loremflickr.com/640/480/photography?lock=1597859726098432",
+        "https://loremflickr.com/640/480/photography?lock=3434723953082368",
+        "https://loremflickr.com/640/480/photography?lock=4406794212343808",
+        "https://loremflickr.com/640/480/photography?lock=757363529220096",
+        "https://loremflickr.com/640/480/photography?lock=5210646207528960",
+        "https://loremflickr.com/640/480/photography?lock=5644587720769536",
+        "https://loremflickr.com/640/480/photography?lock=4385620296204288",
+        "https://loremflickr.com/640/480/photography?lock=4361357833011200",
+        "https://loremflickr.com/640/480/photography?lock=7301658346258432",
+        "https://loremflickr.com/640/480/photography?lock=3801479722827776",
+        "https://loremflickr.com/640/480/photography?lock=1817997635223552",
+        "https://loremflickr.com/640/480/photography?lock=2838341888245760",
+        "https://loremflickr.com/640/480/photography?lock=1852027130871808",
+        "https://loremflickr.com/640/480/photography?lock=2153025424588800",
+        "https://loremflickr.com/640/480/photography?lock=8616260902322176",
+        "https://loremflickr.com/640/480/photography?lock=3257293416169472",
+        "https://loremflickr.com/640/480/photography?lock=7277156509941760",
+        "https://loremflickr.com/640/480/photography?lock=7012312953126912"
+      ],
+      "description": "Capture stunning moments, share photography tips, and explore Amsterdam through the lens.",
+      "membershipFee": 0,
+      "discount": 0,
+      "meetingSchedule": "Every business day (Monday to Friday)",
+      "activities": [
+        "64f771acd8ee037384e871ad",
+        "64f771add8ee037384e871af",
+        "64f771add8ee037384e871b1",
+        "64f771add8ee037384e871b3",
+        "64f771add8ee037384e871b5",
+        "64f771add8ee037384e871b7"
+      ],
+      "createdAt": "2023-07-30T08:09:38.609Z",
+      "updatedAt": "2023-09-05T18:21:33.364Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 51.921901,
+          "longitude": 4.479567
+        },
+        "street": "456 Shutter Road",
+        "city": "Rotterdam",
+        "zip": "45678"
+      },
+      "_id": "64f771b4d8ee037384e8728c",
+      "name": "Rotterdam Photography Club 2",
+      "category": ["photography"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/photography?lock=8289936883056640",
+        "https://loremflickr.com/640/480/photography?lock=4385780363427840",
+        "https://loremflickr.com/640/480/photography?lock=7429617499504640",
+        "https://loremflickr.com/640/480/photography?lock=214829109346304",
+        "https://loremflickr.com/640/480/photography?lock=7815912134541312",
+        "https://loremflickr.com/640/480/photography?lock=7046160948658176",
+        "https://loremflickr.com/640/480/photography?lock=6374906757382144",
+        "https://loremflickr.com/640/480/photography?lock=3160578096889856",
+        "https://loremflickr.com/640/480/photography?lock=8677466189070336",
+        "https://loremflickr.com/640/480/photography?lock=3981394583748608",
+        "https://loremflickr.com/640/480/photography?lock=7557172000980992",
+        "https://loremflickr.com/640/480/photography?lock=5006482967887872",
+        "https://loremflickr.com/640/480/photography?lock=8079541058666496",
+        "https://loremflickr.com/640/480/photography?lock=2692395284037632",
+        "https://loremflickr.com/640/480/photography?lock=3757033660612608",
+        "https://loremflickr.com/640/480/photography?lock=3286379645632512",
+        "https://loremflickr.com/640/480/photography?lock=8783532381962240",
+        "https://loremflickr.com/640/480/photography?lock=169854942314496",
+        "https://loremflickr.com/640/480/photography?lock=7302707039698944",
+        "https://loremflickr.com/640/480/photography?lock=3872163910123520"
+      ],
+      "description": "Capture stunning moments, share photography tips, and explore Rotterdam through the lens.",
+      "membershipFee": 0,
+      "discount": 0,
+      "meetingSchedule": "Every first Monday of the month",
+      "activities": [
+        "64f771b5d8ee037384e8728e",
+        "64f771b5d8ee037384e87290",
+        "64f771b5d8ee037384e87292",
+        "64f771b5d8ee037384e87294",
+        "64f771b5d8ee037384e87296",
+        "64f771b5d8ee037384e87298"
+      ],
+      "createdAt": "2023-02-18T04:39:56.720Z",
+      "updatedAt": "2023-09-05T18:21:41.509Z",
+      "__v": 0
+    }
+  ],
+  [
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 52.380901,
+          "longitude": 4.609012
+        },
+        "street": "123 Film Street",
+        "city": "Amsterdam",
+        "zip": "12345"
+      },
+      "_id": "64f771afd8ee037384e871f6",
+      "name": "Amsterdam Film Buffs 2",
+      "category": ["film"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/film?lock=8101688281923584",
+        "https://loremflickr.com/640/480/film?lock=8673706618388480",
+        "https://loremflickr.com/640/480/film?lock=5310004452130816",
+        "https://loremflickr.com/640/480/film?lock=2841891385114624",
+        "https://loremflickr.com/640/480/film?lock=474027091034112",
+        "https://loremflickr.com/640/480/film?lock=5463141634801664",
+        "https://loremflickr.com/640/480/film?lock=2132496841965568",
+        "https://loremflickr.com/640/480/film?lock=1513553651564544",
+        "https://loremflickr.com/640/480/film?lock=5350943096832000",
+        "https://loremflickr.com/640/480/film?lock=3576722926600192",
+        "https://loremflickr.com/640/480/film?lock=7460275754106880",
+        "https://loremflickr.com/640/480/film?lock=3030957584023552",
+        "https://loremflickr.com/640/480/film?lock=2214727786692608",
+        "https://loremflickr.com/640/480/film?lock=5767346230657024",
+        "https://loremflickr.com/640/480/film?lock=1879419203354624",
+        "https://loremflickr.com/640/480/film?lock=5408881698144256",
+        "https://loremflickr.com/640/480/film?lock=3283763681296384",
+        "https://loremflickr.com/640/480/film?lock=6590368543932416",
+        "https://loremflickr.com/640/480/film?lock=5977090545418240",
+        "https://loremflickr.com/640/480/film?lock=8175790696955904"
+      ],
+      "description": "Explore the world of cinema, watch and discuss films, and connect with fellow film enthusiasts in Amsterdam.",
+      "membershipFee": 80,
+      "discount": 30,
+      "meetingSchedule": "Once a week",
+      "activities": [
+        "64f771afd8ee037384e871f8",
+        "64f771afd8ee037384e871fa",
+        "64f771afd8ee037384e871fc",
+        "64f771afd8ee037384e871fe",
+        "64f771afd8ee037384e87200",
+        "64f771afd8ee037384e87202"
+      ],
+      "createdAt": "2023-08-28T04:48:36.502Z",
+      "updatedAt": "2023-09-05T18:21:36.011Z",
+      "__v": 0
+    },
+    {
+      "address": {
+        "coordinates": {
+          "latitude": 51.926901,
+          "longitude": 4.471234
+        },
+        "street": "123 Film Street",
+        "city": "Rotterdam",
+        "zip": "12345"
+      },
+      "_id": "64f771b7d8ee037384e872d7",
+      "name": "Rotterdam Film Buffs 2",
+      "category": ["film"],
+      "uriPhotos": [
+        "https://loremflickr.com/640/480/film?lock=993027912892416",
+        "https://loremflickr.com/640/480/film?lock=4494244557357056",
+        "https://loremflickr.com/640/480/film?lock=7422286487355392",
+        "https://loremflickr.com/640/480/film?lock=4370078046879744",
+        "https://loremflickr.com/640/480/film?lock=176173866811392",
+        "https://loremflickr.com/640/480/film?lock=5732795542405120",
+        "https://loremflickr.com/640/480/film?lock=7897131006296064",
+        "https://loremflickr.com/640/480/film?lock=7465402690961408",
+        "https://loremflickr.com/640/480/film?lock=3489851311652864",
+        "https://loremflickr.com/640/480/film?lock=2222712451760128",
+        "https://loremflickr.com/640/480/film?lock=7054740881932288",
+        "https://loremflickr.com/640/480/film?lock=4734331488567296",
+        "https://loremflickr.com/640/480/film?lock=165065086992384",
+        "https://loremflickr.com/640/480/film?lock=3998598121390080",
+        "https://loremflickr.com/640/480/film?lock=1660011784699904",
+        "https://loremflickr.com/640/480/film?lock=6682388096614400",
+        "https://loremflickr.com/640/480/film?lock=884143061729280",
+        "https://loremflickr.com/640/480/film?lock=1194917088985088",
+        "https://loremflickr.com/640/480/film?lock=5276402012127232",
+        "https://loremflickr.com/640/480/film?lock=6229559913480192"
+      ],
+      "description": "Explore the world of cinema, watch and discuss films, and connect with fellow film enthusiasts in Rotterdam.",
+      "membershipFee": 70,
+      "discount": 50,
+      "meetingSchedule": "Every Tuesday",
+      "activities": [
+        "64f771b7d8ee037384e872d9",
+        "64f771b7d8ee037384e872db",
+        "64f771b7d8ee037384e872dd",
+        "64f771b7d8ee037384e872df",
+        "64f771b7d8ee037384e872e1",
+        "64f771b8d8ee037384e872e3"
+      ],
+      "createdAt": "2023-07-19T18:27:05.728Z",
+      "updatedAt": "2023-09-05T18:21:44.109Z",
+      "__v": 0
+    }
+  ]
+]

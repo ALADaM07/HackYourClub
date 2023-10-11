@@ -1,0 +1,174 @@
+@import "../../app.scss";
+
+.searchItem {
+  border: 1px solid lightgray;
+  padding: 20px;
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+  color: white;
+  width: 70%;
+  border-radius: 7px;
+
+  @include mobile {
+    flex-direction: column;
+    align-items: center;
+    gap: 1px;
+    margin-bottom: 3px;
+    padding: 10px;
+  }
+  @include tablet {
+    width: 80%;
+  }
+}
+
+.siImg {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 10px;
+
+  @include mobile {
+    width: 100%;
+    height: 150px;
+  }
+  @include tablet {
+    margin-top: 25px;
+  }
+}
+
+.siDesc {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  flex: 2;
+
+  @include mobile {
+    text-align: center;
+  }
+}
+
+.siTitle {
+  font-size: 24px;
+  color: rgb(179, 167, 94);
+
+  margin-right: auto;
+  @include tablet {
+    font-size: 19px;
+    margin: 0 auto;
+  }
+  @include mobile {
+    margin: 0 auto;
+  }
+}
+
+.siDistance {
+  font-size: 12px;
+}
+
+.siTaxiOp {
+  font-size: 12px;
+  background-color: gray;
+  color: white;
+  width: max-content;
+  padding: 3px;
+  border-radius: 5px;
+  @include mobile {
+    display: none;
+  }
+}
+
+.siSubtitle {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.siFeatures {
+  font-size: 12px;
+}
+
+.siDetails {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.siRating {
+  display: flex;
+  justify-content: space-between;
+}
+
+.siRating > span {
+  font-weight: 500;
+}
+.siRating > button {
+  background-color: gray;
+  color: white;
+  padding: 3px 5px;
+  border-radius: 2px;
+  font-weight: bold;
+  border: none;
+  margin-top: 20px;
+  @include mobile {
+    display: none;
+  }
+  @include tablet {
+    padding: 4px;
+  }
+}
+
+.siDetailTexts {
+  text-align: right;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  @include mobile {
+    text-align: center;
+  }
+}
+
+.siPrice {
+  font-size: 24px;
+}
+
+.siTaxOp {
+  font-size: 12px;
+  font-weight: 600;
+  color: gray;
+}
+
+.siCheckButton {
+  background-color: #0071c2;
+  color: white;
+  font-weight: bold;
+  padding: 10px 5px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  @include mobile {
+    padding: 5px 3px;
+  }
+  @include tablet {
+    font-size: 14px;
+    font-weight: 500;
+    padding: 5px 3px;
+  }
+  .loading-container {
+    width: 100%;
+    height: 100vh;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+  }
+
+  .loading-indicator {
+    color: white;
+    font-size: 24px;
+  }
+  body.loading {
+    background-color: black;
+  }
+}

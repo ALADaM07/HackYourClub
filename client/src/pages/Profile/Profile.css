@@ -1,0 +1,144 @@
+.container-profile {
+  max-width: 800px;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgb(31, 30, 30);
+  border-radius: 10px;
+  box-shadow: 0px 2px 10px rgba(170, 73, 73, 0.1);
+  text-align: center;
+}
+
+.container-profile h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: rgb(159, 167, 177);
+  margin-bottom: 15px;
+  border-bottom: 2px solid gray;
+  border-right: 2px solid gray;
+  border-left: 2px solid gray;
+}
+
+.container-profile img {
+  max-width: 200px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.container-profile strong {
+  font-weight: bold;
+  color: rgb(159, 167, 177);
+  display: block;
+  margin-bottom: 5px;
+}
+
+.container-profile .name-input {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 15px;
+}
+
+.container-profile label {
+  font-weight: bold;
+
+  color: white;
+  margin-bottom: 5px;
+}
+
+.container-profile input[type="text"] {
+  border: none;
+  background-color: transparent;
+  font-size: 18px;
+  color: white;
+  background-color: inherit;
+  border-bottom: 1px solid gray;
+  width: 100%;
+  text-align: center;
+}
+
+.container-profile div {
+  margin-bottom: 15px;
+}
+
+.container-profile ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.container-profile li {
+  margin-bottom: 5px;
+  color: #555;
+}
+
+.password-form {
+  margin-top: 20px;
+}
+
+.profile-image {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.profile-image input[type="file"] {
+  display: none;
+}
+
+.profile-image label {
+  cursor: pointer;
+  color: #007bff;
+  text-decoration: underline;
+  transition: color 0.2s;
+}
+
+.profile-image label:hover {
+  color: #0056b3;
+}
+
+.profile-image img {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  border: 3px solid #fff;
+  border-radius: 50%;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.button-container button {
+  flex: 1;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.button-container button:hover {
+  background-color: #0056b3;
+  margin-left: 7px;
+}
+
+.li-items {
+  color: white;
+}
+
+.deactivation-message {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 10px;
+}

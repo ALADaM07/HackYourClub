@@ -1,0 +1,62 @@
+[
+  {
+    "Promotion": "Membership Discount",
+    "Description": "Join our club today and get a 10% discount on your annual membership fee for the first year!"
+  },
+  {
+    "Promotion": "Refer-a-Friend Bonus",
+    "Description": "Refer a friend to our club, and both of you will receive a 20% discount on your next visit."
+  },
+  {
+    "Promotion": "Early Bird Special",
+    "Description": "Arrive at our club between 5 PM and 7 PM and enjoy half-price drinks during our early bird hours."
+  },
+  {
+    "Promotion": "Student Discount",
+    "Description": "Students get 15% off on club entry fees with a valid student ID."
+  },
+  {
+    "Promotion": "Ladies' Night",
+    "Description": "Every Wednesday is Ladies' Night! Ladies enjoy free entry and discounted drinks all night."
+  },
+  {
+    "Promotion": "Couples Package",
+    "Description": "Bring your significant other! Couples receive a 2-for-1 deal on entry fees and a complimentary bottle of wine."
+  },
+  {
+    "Promotion": "VIP Membership",
+    "Description": "Become a VIP member for exclusive access to our VIP lounge, priority reservations, and special discounts on events."
+  },
+  {
+    "Promotion": "Birthday Special",
+    "Description": "Celebrating your birthday? Show your ID, and your first drink is on us!"
+  },
+  {
+    "Promotion": "Themed Party Discounts",
+    "Description": "Dress up according to the theme of the night, and receive a discount on entry."
+  },
+  {
+    "Promotion": "Frequent Visitor Rewards",
+    "Description": "Collect stamps every time you visit. After 5 stamps, get a free drink or entry to a special event."
+  },
+  {
+    "Promotion": "Happy Hour",
+    "Description": "Enjoy our happy hour from 4 PM to 7 PM with 2-for-1 drink specials and discounted appetizers."
+  },
+  {
+    "Promotion": "Live Music Fridays",
+    "Description": "Live music lovers get discounted entry on Fridays when we have live bands performing."
+  },
+  {
+    "Promotion": "Sports Fanatics",
+    "Description": "Show your team spirit by wearing your favorite sports team's jersey and get a discount during game nights."
+  },
+  {
+    "Promotion": "Dance-Off Contest",
+    "Description": "Join our dance-off contest and win cash prizes for the best dance moves."
+  },
+  {
+    "Promotion": "Sunday Brunch Special",
+    "Description": "Attend our Sunday brunch events with discounted entry and an all-you-can-eat brunch buffet."
+  }
+]
