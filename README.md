@@ -8,7 +8,7 @@ This is the final project for the HackYourFuture curriculum we did as a class us
 
 ## Description
 
-Welcome to [Your App Name] – your go-to destination for discovering and engaging with a wide range of clubs and activities. Whether you're into sports, fishing, cycling, or any other hobby, our platform simplifies your journey to explore and participate in your favorite pastimes.
+Welcome to HackYourClub – your go-to destination for discovering and engaging with a wide range of clubs and activities. Whether you're into sports, fishing, cycling, or any other hobby, our platform simplifies your journey to explore and participate in your favorite pastimes.
 
 ## Key Features
 
